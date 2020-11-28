@@ -1,5 +1,5 @@
 {
-    "updated": 1606338145040,
+    "updated": 1606581492067,
     "apps": [
         {
             "title": "PowerAudio Plus",
@@ -132,7 +132,7 @@
             "developer": "LittleBigPlay - Word, Educational & Puzzle Games"
         },
         {
-            "title": "Ages up to 12",
+            "title": "Dr. Panda in Space",
             "price": "₹300.00",
             "description": "EXPLORE SPACEOnce you customize your own space ship and blast off, set your course however you’d like! Explore space and discover asteroids, new planets, and maybe even a black hole! Where should you and Dr. Panda go next? It’s all up to you! LOTS TO DOWhile you explore the universe, you’ll find friendly aliens as well as familiar friends—and they all need your help! Fix a space ship, repair a satellite, find your way through a meteor maze, and more.PLAY WITH ALIENSAs you discover the galaxy, you’ll find different varieties of plants that these two cute aliens just love to eat! Play with them and feed them what you find to see what happens! Will they breathe fire? Shrink? Grow? Experiment and find out!Key Features:• Customize your own space ship• Explore the stars!• Meet and play with cute aliens!• Collect plants to feed to aliens for tons of different reactions!• Dozens of activities to discover-repair space ships, take care of your astronauts, and more!• Play in zero gravity with Dr. Panda• No third party ads or in app purchasesPrivacy Policy As a designer of kids’ games, we understand how important privacy is in this modern, digital world. You can read our privacy policy here: http://www.drpanda.com/privacy About Dr. PandaDr. Panda is a developer of games for kids. We develop games with educational values that help kids learn about the world. This game is safe and does not contain inappropriate content, in-app purchases or any third-party advertising. If you’d like to know more about us and how we design games for kids visit our website www.drpanda.com/about. If you have any questions feel free to send us an email at support@drpanda.com or contact us on Facebook (www.facebook.com/drpandagames) or Twitter (www.twitter.com/drpandagames) or Instagram www.instagram.com/drpandagames.",
             "id": "com.tribeplay.pandaspace",
@@ -220,6 +220,596 @@
             "rating": "4.4(91)",
             "category": "Personalization",
             "developer": "Olivera Onias Design"
+        },
+        {
+            "title": "Cuticon Hexa - Icon Pack",
+            "price": "₹120.00",
+            "description": "How to apply Cuticon Hexa Icon Pack/Icon Changer ?Cuticon Hexa icon pack supports numbers of popular launcher such as nova launcher, evie launcher and many more. Follow these steps to apply1. Open Cuticon Hexa Icon Pack App2. Navigate to Apply Icon Pack Screen3. The app shows a list of launcher that are supported such as nova launcher, evie launcher etc. Select the nova launcher installed on your phone to apply icons from this icon pack.4. The app will automatically applies the icons from Cuticon Hexa icon pack for nova launcher.Note: If launcher doesn't show while applying from the icon pack. Please try applying from the launcher itself.Sony Xperia Home Launcher does not appear in this application, but it can apply Cuticon Hexa icon pack with different settings.The setting for Sony Xperia :1. Long press on the main screen2. open the settings3. Scroll down and open the appearance icon setting4. choose Cuticon Hexa icon pack5. done, your Sony Xperia has applied Cuticon Hexa icon.Note: Icon pack only Support on Sony Xperia Home Launcher 10.0.A.0.8 Or Up.Supported Launcher:Icon Pack for Nova LauncherIcon Pack for Apex LauncherIcon Pack for ADW LauncherIcon Pack for ABC LauncherIcon Pack for Evie LauncherIcon Pack for Solo LauncherIcon Pack for Next LauncherIcon Pack for Holo LauncherIcon Pack for Lucid LauncherIcon Pack for M Launcher Icon Pack for Action LauncherIcon Pack for Solo LauncherIcon Pack for Sony Xperia Home LauncherIcon Pack for Aviate LauncherIcon Pack for Smart LauncherIcon Pack for Go Launcher(doesn't support icon masking)Icon Pack for Zero Launcher(doesn't support icon masking)FEATURES - 5000+ icons and counting- Iconback for your unthemed icons- 36+ HD Wallpapers- Alternate icons- Icon Request- HD Icon resolution 192x192pxMore Design Information On Google+, Instagram, Twitter.https://plus.google.com/118122394503523102122https://www.instagram.com/panoto.gomo/https://twitter.com/panoto_gomospecial thanks to Dani Mahardika for Candybar Dashboard.",
+            "id": "com.panotogomo.cuticonh",
+            "image": "https://play-lh.googleusercontent.com/dvyUhIPPukc9QzIEjjUyuDUA_fvh_njqG6hyRzymBUWw8F0gLHMNkzaQI1I4-WJq_hJu=s180-rw",
+            "rating": "4.1(69)",
+            "category": "Personalization",
+            "developer": "GomoTheGom"
+        },
+        {
+            "title": "Peppa Pig: Sports Day",
+            "price": "₹250.00",
+            "description": "#1 Kids app in the app store July and August 2016!No adverts or in-app purchases - just lots of fun with Peppa!Join Peppa as she competes in Sports Day in this official app!Peppa and her friends are taking part in Sports Day and they want you to join them! Fans of the TV show will love this sports day-inspired app, which encourages pre-schoolers to explore fun filled games with their favourite little piggy.5 x fun-filled games featuring Peppa, George and their family and friends:• Bicycle Race• Obstacle Course• Tug of War• Long Jump• Ice Cream MakerPlus special Sports Day features, such as:• Rosette Maker• Earn Sticker Rewards",
+            "id": "com.peppapig.sportsday",
+            "image": "https://play-lh.googleusercontent.com/u7WaWMf3Glw8xrXnbYHEjEIkZiZyBOXK3MoxBNaiwWYAkpdy_NUZwBEjrPPZqxQkHw=s180-rw",
+            "rating": "4.1(3,791)",
+            "category": "Educational",
+            "developer": "Entertainment One"
+        },
+        {
+            "title": "2048 - Puzzle Game",
+            "price": "₹290.00",
+            "description": "2048 - Our puzzle game is published!How to play?You try to reach the number 2048 by moving the numbers to the right, left, down and up. 2 4 8 16 32 64 128 256 512 1024 to complete the 2048 stages you pass.You can download our 2048 application via play store with high score recording system, compatible colors and small animations, simple interface.You can send us your thoughts.Good games!",
+            "id": "com.mdkgames.game2048",
+            "image": "https://play-lh.googleusercontent.com/F-UmLVlgmIA0NCP5-vMGpC26CE2h7m8Od8mj181f8ehEaFEOirLuJyCtjd6UIjHzgqk=s180-rw",
+            "rating": "4.2(2,487)",
+            "category": "Puzzle",
+            "developer": "Gamedk"
+        },
+        {
+            "title": "Space Shooter: Alien vs Galaxy Attack (Premium)",
+            "price": "₹20.00",
+            "description": "Do you know what interesting things are waiting for you in this Space Shooter: Alien vs Galaxy Attack (Premium) - the VIP version challenges all the excellent captains in our galaxy.Space Shooter: Galaxy Attack is the best Galaxy Shooter game. If you are a big fan of arcade shooting game like galaxia, galaxian and galactica with the new modern combat, and want to bring the freedom in the galaxy games, so <b>Space shooter: Galaxy attack </b> is perfect game for you. With classic free space games genre, old game with a new context, <b>Space shooter: Galaxy attack</b> puts you on fire with infinity space shooting. You will be faced lots of evil enemies and deal with many striker bosses in galaxy wars. Are you sure you will survival in the war of alien shooter?It is super exciting that the challenge bosses, firepower were concentrated, with different bullet barrage to attack you,  and you have to protect your spaceship safe and accumulate damage. It is not only a sky shooting game, but also help you relieve stress in your leisure time. Control your fighter cleverly, smartly and kill all space attackers during space shooting attack and bring the peace for the Earth.★Galaxy Shooter Features ★ - Merge 2 ships to create an epic, monumental one.- Special and unique spaceships.- Hard levels challenging.- Amazing lightning and special effects- Includes Power-ups and Bosses!- Global Leaderboard.- Lucky wheel- PVP - online shooting games★How to play★-- Slide to control your spaceship dodge enemy's bullets.- Use coin and gem to upgrade or evolve your spaceship to fight with giant enemies and alien invaders.- Use appropriate spaceships and strategies for each level and boss.- Remember using power-up item, booster item to level up easier.The Galaxy's future is now in your hands. Get your ship ready for space attack in this arcade shooter gameWelcome to the most enjoying classic game. We promise to bring you the best gaming experience in this premium version. If you love original action shooter from the arcade game or handheld system then this game is definitely for you. <b>Space shooter: Galaxy attack game</b>  on Facebook:https://www.facebook.com/Space.Shooter.Fanpage/<b>Space shooter: Galaxy attack game</b> Community: Join Group to get our support quickly: https://www.facebook.com/groups/Space.Shooter.GalaxyAttack/",
+            "id": "com.space.shooter.alien.galaxyattack",
+            "image": "https://play-lh.googleusercontent.com/FEu9oAskY0DimLjJKnSMVddtlzcEitVMfGe2T_Gavg5Vv9V474w1Pqbkw1YTEwd1PAHO=s180-rw",
+            "rating": "4.2(18,700)",
+            "category": "Arcade",
+            "developer": "ONESOFT"
+        },
+        {
+            "title": "Offline Tap tap cartoonist - Cartoon999 (VIP)",
+            "price": "₹60.00",
+            "description": "◆ VIP version of Cartoon 999 (no banner ad)◆ Start with 300 crystals!! Download now and conquer the world with cartoons-!Mr.Paper, who drew cartoons for only 50 years on a mountain…One day, he came out to the world to show his cartoons, but he only received 10 cents for his work!Full of anger, Mr.Paper decided to take over the world using his cartoons• Customize your office with cute characters!• The game with the ultimate ending to in travel space after the global conquest!• Collaborations with famous games such as Dunogeon999F, The Buff knight, Welcome to Dungeon, Big Bear as well as the characters of the games!• Various events and achievements that would make you busy and entertained!• I doubt you have read this far, but if you did, download the game and you will not regret it!1. If you delete the application, all data can be lost. Do not delete the application until you see the ending!2. The game only loads your account information to log in from Google Play.3. Also, accessing your device storage is only to save captures using a capturing function of the game.",
+            "id": "com.moontm.cartoon999_Plus",
+            "image": "https://play-lh.googleusercontent.com/a-LfaRT0H9yYkelUiQD1uOh4Gti41-cNPqSpbhWrQ8SDzqJzun26MkXw9juOIfrJ3_0=s180-rw",
+            "rating": "3.5(4,920)",
+            "category": "Simulation",
+            "developer": "Moontm"
+        },
+        {
+            "title": "Atonement - Dungeon of the Seven Deadly Sins",
+            "price": "₹190.00",
+            "description": "This is the forest of atonement.The dead look back on their sins andfind life memories in this place.The main character bound with seven shackles.What kind of life did he live?Purify the seven deadly sins andfind the life memories swallowed by death.Step into the life stories reflecting realityand the attraction of strategic card game.* It is a paid version that provides 2000 gems.",
+            "id": "com.poom.atone",
+            "image": "https://play-lh.googleusercontent.com/1KjAx9B4iqXugA5Pf6Ds4oBSA7GK6bC-N7WwWbmNkf07FfvV2tSQX2tr6VoxDA5DxA=s180-rw",
+            "rating": "3.9(38)",
+            "category": "Strategy",
+            "developer": "POOM GAMES"
+        },
+        {
+            "title": "Ball Collect 3D - Best casual endless game",
+            "price": "₹110.00",
+            "description": "Remove the sand by touching it so balls k walk through itFeatures:Colorful design. color changing randomly during game playUnlimited levelsSupport for phone and tabletsmooth one touch controls",
+            "id": "com.gamedev.BallCollect",
+            "image": "https://play-lh.googleusercontent.com/AO5_L4cIyoCgpihUspHT6ayxi1yOXm4Aguabx9454bePtnf9CQrfTMm0j3dVX4lrYw=s180-rw",
+            "rating": "4.1(3,642)",
+            "category": "Arcade",
+            "developer": "ARSL GAMES"
+        },
+        {
+            "title": "Words All Around PRO",
+            "price": "₹150.00",
+            "description": "<b>How many words will you find in our addicting word search game Words All Around that contains 6 different game modes and over 450 000 English words?</b>Challenge people from all around the world and go for highscores!This is a premium ads-free version with no In-App purchases.<b>FEATURES:</b>✓ Addicting word search game for all ages✓ 6 different game modes✓ Over 450 000 English words included✓ Global leaderboards included - compare your score with other people from all around the world✓ Review your words at the end of the game✓ Review the score of other people - press the TROPHY icons in the game menu✓ Share your result via social networks, email or sms✓ No ads, no In-App purchases<b>HOW TO PLAY:</b>✓ Slide your finger over 3-10 neighboring letters to create a word! Release your finger to submit the word! The game recognizes if the word exists or not. Get the best score possible and submit it to see who is the best in finding the words! Remember, longer words = better score! You can submit your score whenever during the gameplay by pressing the X button in the top left corner.<b>GAME MODES:</b>✓ Classic - you have exactly 180 seconds to get the best score possible!✓ Challenge - each word created from 5+ letters will add new letters, otherwise the letters will be removed.✓ 20 Words - you are limited by 20 words, get the best score possible!✓ 10 Words - you are limited by 10 words, get the best score possible!✓ 60 Letters - you can create words from 60 letters on screen only. Get the best score possible!✓ Fair Play - the same as 60 letters, but all the players get the same letters to play with!Enjoy and have a nice time playing our word search game Word All Around PRO!If you find any bug, please let us know at littlebigplay@gmail.com, we will be very happy to fix it!<b>SUPPORT:</b>✓ Email: littlebigplay@gmail.com✓ Facebook: https://www.facebook.com/littlebigplay",
+            "id": "air.com.littlebigplay.games.premium.wordsallaround",
+            "image": "https://play-lh.googleusercontent.com/wYa0-ksaMs-OmUA9YF-HDGt3Knur9S-yL7VUDDNhQ33CmhFghkyOiJKEL7jwv1SQtWv0=s180-rw",
+            "rating": "3.9(97)",
+            "category": "Word",
+            "developer": "LittleBigPlay - Word, Educational & Puzzle Games"
+        },
+        {
+            "title": "Color lines - Icon Pack",
+            "price": "₹95.00",
+            "description": "- It is recommended to use a dark or black background for better visibility of this linear cone pack.*Instructions*-Open the Lines Color application and inside it fence to the menu that is in the upper left.-Select set or apply.-The list of all the supported launchers and those installed in the first place will appear.-Select the one of your preference and press accept.-You do not have any installed launcher just select it and it will take you to the download link of it.-Your icon pack is ready.*Characteristics*- 4400+ HD Custom icons.-Intelligent request of icons via email.-Application easy and simple.-Support for the following launchers:Nova launcher, Smart Launcher, Abc launcher, Action Launcher, ADW Launcher, Apex, Launcher, Aviate Launcher, CM Themes, Evie Launcher, Go launcher, Holo Launcher, Holo Pro, Lucid Launcher, M Launcher, Mini Launcher, Next Launcher, Nougat Launcher, Solo Launcher, V Launcher, ZenUI Launcher, Zero Launcher and more.-It is not compatible with the default launcher of your samsung or huawei phone.-Support limited in launcher go launcher because it does not support masking icons.-This package of icons uses the CandyBar board.-Support Muzei-Interface Graphic in several languages",
+            "id": "com.olivera.lines",
+            "image": "https://play-lh.googleusercontent.com/t_jILCMrO4-pZKwGrBSCUZ3GFwXgT_8dbWQXdnQs97p4zv5KEa7m34cs1JLnVIwdgw=s180-rw",
+            "rating": "4.4(201)",
+            "category": "Personalization",
+            "developer": "Olivera Onias Design"
+        },
+        {
+            "title": "Kosmos - Work Time Tracker, Job Timesheet",
+            "price": "₹200.00",
+            "description": "Time Tracker and Time Sheet for cosmonauts! Kosmos is a time tracker (timesheet and time recording app) that makes it fun to track time spent on work, sport, education - or any other activity. Start and stop time tracking (time recording) by shooting to your own tasks. Destroy tasks when you complete them! Review daily, weekly, monthly timesheet (activity log, time log, work log, work hours). We usually track job time with a boring timesheet. Isn’t working boring enough? Why don’t you try a cosmic work timesheet? It’s the job time page for cosmonauts (and bored employees). Don’t log office time with your paper hours tracker, or the regular (dull) mobile job hours tracker. Instead, keep your office timepage as a real astronaut, with an interstellar office time tracker. Features:- to do list: schedule your todos, set tasks priorities and assign tags to your activities- get things done: enjoy destroying tasks as you complete them- quick time tracking and time recording for any activity - timesheet reports&nbsp;(daily, weekly, monthly or any other period)- funny and user-friendly interface&nbsp;(any spaceships’ lover?)- easy to browse and edit time log (work log, activity log)&nbsp;(change start and end dates, descriptions, tags, durations)- improve your skills: by completing tasks, your spaceship will upgradeKosmos is a great tool for people who want to track time, control and manage it. Freelancers, self employed, designers, developers, IT specialists, lawyers, contractors, sportsmen, athletes, people who just like sport, students, travelers... - all people who want to track time and take it under control will find this lightweight time tracker useful and funny.As any time tracker app, it helps you to keep track of time spent on different tasks, projects and activities (keeping work log, time log and activity log for your personal affairs or business tasks, meetings or sports, work or commute). You won’t ask yourself any more: What was I working on yesterday? last week? month? year? All you’ll need is just to search your time log (activity log, work log) for a particular dates.Kosmos can help with time management, especially when you use different kind of reminders. It helps to track time, whether it is working hours or any other activity, in a quick and meaningful way.Track your time, review it, analyze it and take it under control!",
+            "id": "com.cosmicpie.spacetodolist",
+            "image": "https://play-lh.googleusercontent.com/ypYoBc5D50EuTJ0w0ERVhDesD0aW3EA0GKd95eIrkcCzxDn596AGgT3aiV-ckCLHiA=s180-rw",
+            "rating": "4.0(641)",
+            "category": "Tools",
+            "developer": "Cosmic Pie Design"
+        },
+        {
+            "title": "Fill Deluxe VIP",
+            "price": "₹150.00",
+            "description": "Sharpen your mind with a connect-the-block-style one-line brain training puzzle game.A simple but addictive fill one line block puzzle game that’s completely free to play.The rules are extremely simple.Just fill in all of the blocks using only one line.Use hints for puzzles that are too hard to solve.Hints are also free, of course.Fill Deluxe VIP - Single Stroke Drawing Features:* Beautiful background music * Easy to play, and FREE block game for all ages.* Sleek design* Don't worry! No time limits! No Internet limits* Play this brain puzzle game for anytime, anywhere, pleasurable no wifi* Simple and satisfying game play!* Clean, colorful graphics[E-MAIL]•&nbsp;artstormgames@gmail.comIf you like our game, please recommend it to your friends! Suggestions and feedback are always welcome!",
+            "id": "com.artstorm.fillvip",
+            "image": "https://play-lh.googleusercontent.com/6STv2bJDo9erH7Z8Sclk5BNPprlY27NGcJWV6don1VVITwwoTl_Q7CQvBgjHx1Z0nhU=s180-rw",
+            "rating": "4.2(2,754)",
+            "category": "Puzzle",
+            "developer": "ArtStorm"
+        },
+        {
+            "title": "Free for All VPN - Paid VPN Proxy Master 2020",
+            "price": "₹500.00",
+            "description": "Paid VPN Proxy Master is a fast VPN service. It provides a secure and trustworthy VPN connection to network, unblock any app and website. Paid VPN Proxy Master is very fast when you are using network, it prevent threats of hackers .Paid VPN Proxy Master can also speed up your network connection in many cases.!If you are using public WIFI in any place, Paid VPN Proxy Master keep you away from information leakage. If some apps or Websies are blocked by your ISP, like Facebook Twiter, Youtube and whatsApp in your country, you should use Paid VPN Proxy Master to prevent the blocked apps and websites.If you cannot access any chatting social websites or application like skype, WhtasApp, Imo etc in your country, you have an option to use Paid VPN Proxy Master App. It should help you making international calls in a lower cost.Some apps are limited, only provide service to limited countries but Paid VPN Proxy Master should help you in this case because its unlimited service.How to use Paid VPN Proxy Master?You need to open the app and click the connect button and select the country which you want and accept the permission request then you just need to do wait for the connection. On this Way, you can easily use the Paid VPN Proxy Master App.Features: Maximum number of services. High speed bandwidth. No need for Sign Up. Unpaid service. Enjoy high-speed VPN service with just one click. Fast VPN service . Very Easy to use Use in all over the World. Totally free Servers Unlimited Bandwidth Unlimited Data Very Fast VPN     No adsMore Features:- VPN Free VPN Client- total free VPN client- One-click to connecting VPN- No registration required, no settings required- No speed limitation, no bandwidth limitation- Free Proxy Server &amp; Secure VPN Service- 100% free VPN!- connect as a hare to unblock sites- Super fast and high VPN speed- FREE &amp; Unlimited Bandwidth- Totally unlimited bandwidth!Free VPN Proxy Master is very best option for all.",
+            "id": "com.snowberry.free_fast_vpn_proxy.paid_vpn",
+            "image": "https://play-lh.googleusercontent.com/BuvGnYPnhPiBXWx3nMAW4I5BTppgX4gSRlsofoBvkWjYDHNch-aA-SG7AmVczagXbfzO=s180-rw",
+            "rating": "4.1(1,930)",
+            "category": "Tools",
+            "developer": "SnowBerry"
+        },
+        {
+            "title": "Falling Down",
+            "price": "₹190.00",
+            "description": "go through the portals and explore different worlds.Jump from moving grounds and solve puzzles",
+            "id": "com.BilginStudios.MyProject4",
+            "image": "https://play-lh.googleusercontent.com/qw1wjxqywHM8RNanAvKiTMEVvdloWOJd69LlpYRjnjX-VKWuk2m9OQ62nBsZS81-fK8=s180-rw",
+            "rating": "4.0(84)",
+            "category": "Adventure",
+            "developer": "ErcanBilgin"
+        },
+        {
+            "title": "Crisis of the Middle Ages",
+            "price": "₹160.00",
+            "description": "Long for a good retro turn based RPG with a twist?  Want to play a game that will have you laughing out loud?  Crisis of the Middle Ages is the game for you!  With a rich story and a 90s style look and feel, Crisis of the Middle Ages will have you on the edge of your couch with 6-10+ hours of intriguing, hilarious and fun game play!  Expect the unexpected as creatures and characters in the game have become more self aware and are constantly questioning their roles in the world.  Even the evil monsters express frustration with their lives and have been known to complain or even walk out mid battle.  This results in some very hilarious battles.  Ultimately, this game explores the challenges of living the life we want to live versus the life that we feel obligated to live.Features:No In-App purchases and no ads!Retro RPG with side view battle systemRich, funny and unique story lineBeautiful music including some classical selectionsOver 700 Unique EnemiesOver 100 Unique Attacks (including magic spells, physical attacks, friendly skills, and engineering skills)Special Items that can be thrown at enemies with unpredictable and often entertaining results6-10+ hours of game play",
+            "id": "com.orgaction.cma",
+            "image": "https://play-lh.googleusercontent.com/rl39FJ21jwZQvMi5Q58ir33t6sy2TtIT93MSVatCOX4-RLaUuWU5LkzESpKGVK2dFw=s180-rw",
+            "rating": "3.5(361)",
+            "category": "Role Playing",
+            "developer": "OrgAction LLC"
+        },
+        {
+            "title": "Speed View GPS Pro",
+            "price": "₹60.00",
+            "description": "Speed View GPS can track your speed,distance,time,location and also can get start time,time elapsed,avg speed,max speed,altitude...Features included- Save your track info.- Switch between car speedometer and bike cyclometer.- mph,knot and km/h mode.- Map integration,get your location.- 16 color styles.……Facebook:https://www.facebook.com/SpeedometerGPSIf you have a translation suggestions, please contact me！luohuaming.android@gmail.com",
+            "id": "luo.speedviewgpspro",
+            "image": "https://play-lh.googleusercontent.com/GAu-PXIeWr4Kl1vaipg4i5wacmCYQG_sAca71zfz626IXjlZFCk-X1sm5OFILIdhBQ=s180-rw",
+            "rating": "4.0(1,754)",
+            "category": "Tools",
+            "developer": "luozirui"
+        },
+        {
+            "title": "AceSpeeder3",
+            "price": "₹85.00",
+            "description": "The racing game that run through the future world in the anti-gravity machines.You can experience the overwhelming speed and realistic motion.--- Beautiful visuals and powerful sounds- Anyone can enjoy simple operation- 10 unique machines- 35 wide variety of courses- 3 of the game rules--RAINGRAPHhttps://sites.google.com/site/raingraphinfo/",
+            "id": "com.raingraph.acespeeder3",
+            "image": "https://play-lh.googleusercontent.com/uEgTAbbzlO5XO-GM_I0LcK4TVan0CjZ8ejjv7Dbqvx_Axzowa34XwBYNPcFHWFr_X0Y=s180-rw",
+            "rating": "3.9(3,336)",
+            "category": "Racing",
+            "developer": "RAINGRAPH"
+        },
+        {
+            "title": "Zombie Masters VIP - Ultimate Action Game",
+            "price": "₹65.00",
+            "description": "VIP Special : ads banner removeExhilarating ultimate action zombie hunting shooting  game of unique heroes has come!After becoming zombies Masters armed with cool blow feeling and thrill,please kill all the zombies!At various stages, please hunt a new individual zombie.Collecting rare hidden heros, experience the more exhilarating shooting pleasure.Try to be the best in a variety of rankings for users around the world.Clear all extreme missions, prove your ability.Blow away all your stress with interesting shooting every day, regarless of Halloween or holiday!Thanks to 4gray.----※ This game is Google play login required.1. Google Play Sign Solution&gt;&gt; Google Play Services update: https://play.google.com/store/apps/details?id=com.google.android.gms&gt;&gt; Google Play Games update: https://play.google.com/store/apps/details?id=com.google.android.play.games----※ App permissions requests- Photos / Media / Files: Save the screenshot, the necessary permissions to the shared features.- Address: Free station drive the necessary permissions.",
+            "id": "me.nextdoors.zombiemastersvip",
+            "image": "https://play-lh.googleusercontent.com/SsDYzJiOivFKVrdRHvUSSwaeoV0b9_BZIvhzivB6w_PvKEhEqeSZHZmT_12In2KByB0=s180-rw",
+            "rating": "3.6(368)",
+            "category": "Action",
+            "developer": "Next Doors"
+        },
+        {
+            "title": "Cirgus - Icon Pack",
+            "price": "₹90.00",
+            "description": "This application, like any icon pack, is not a standalone application, because to use it you need an extra launcher such as nova launcher or smart launcher.*Instructions*Open the Cirgus UI application and inside it go to the menu that is in the upper left.-Select set or apply.-The list of all the supported launchers and those installed in the first place will appear.-Select the one of your preference and press accept.-You do not have any installed launcher just select it and it will take you to the download link of it.-Your icon pack is ready.*Characteristics*-4000+ Custom icons.-85 Custom wallpapers.-Intelligent request of icons via email.-Application easy and simple.-Support for the following launchers:Nova launcher, Smart Launcher, Abc launcher, Action Launcher, ADW Launcher, Apex, Launcher, Aviate Launcher, CM Themes, Evie Launcher, Go launcher, Holo Launcher, Holo Pro, Lucid Launcher, M Launcher, Mini Launcher, Next Launcher, Nougat Launcher, Solo Launcher, V Launcher, ZenUI Launcher, Zero Launcher and more.-It is not compatible with the default launcher of your samsung or huawei phone.-Support limited in launcher go launcher because it does not support masking icons.-This package of icons uses the CandyBar board.-Support Muzei-Interface Graphic in several languages.-Make your requests and you will receive an immediate response.",
+            "id": "com.olivera.cirgus",
+            "image": "https://play-lh.googleusercontent.com/E8JFMybpXFw3sDCENU1M2915G-t7Jc8e-4PyoGtwqXAVKF1r9ovFTs7iGxbs7YP4MzY=s180-rw",
+            "rating": "4.4(181)",
+            "category": "Personalization",
+            "developer": "Olivera Onias Design"
+        },
+        {
+            "title": "Cat Forest : Healing Camp",
+            "price": "₹90.00",
+            "description": "Have you dreamed of escaping from ordinary life and just go farming?Become the owner of the campsite and run your own camp.Collect various cat visitors,and make your own healing camp.[How to Play]1. Gather materials.2. Build camping facilities and others.3. Grow crops in the field and cook dishes.4. Enjoy fishing and light a campfire.5. Bigger the camp, more cat visitors there will be!▶ It is a paid version that provides 3,000 golden pine cones.",
+            "id": "com.poomgames.catforestpaid",
+            "image": "https://play-lh.googleusercontent.com/j8IvXgr8qDMtBO2rz6q-kS5eyGOvDpenQwKTj0TKzpqXFy8qaKitJZdlJESiQcU3dA=s180-rw",
+            "rating": "4.4(1,034)",
+            "category": "Simulation",
+            "developer": "POOM GAMES"
+        },
+        {
+            "title": "Password Manager : Store & Manage Passwords.",
+            "price": "₹90.00",
+            "description": "AVAILABLE IN FOLLOWING LANGUAGES-- French-- Arabic-- German-- Turkish-- Russian-- Spanish-- Italian-- Portuguese-- English-- Indonesian-- GreekMore languages will be available in future version.Facebook Page: https://web.facebook.com/PasswordsManagerWEBSITE:https://passwords-manager.comYouTube:https://youtu.be/y-u08C_mvugVideo Credit:https://www.fiverr.com/mrspider94PASSWORD MANAGER:Modern technology and social media has hacked everyone’s lives. Our lives revolve around our smartphones and smart technologies.Even for a simple photo editing or video editing app, it asks you to create your account which is usually not easy to remember. Most of the applications like Facebook, Twitter and Instagram has millions of user accounts.Mostly each user has multiple accounts on each social media platform and memorizing emails and passwords for each platform makes people bizarre. A part from social media, people engaged with businesses have to maintain their work accounts as well and forgetting work account credentials can lead to some very serious chaos. In order to provide ease, Password manager is an application which saves your credentials categorically to saves your time. This application come up with a lot of features including:*  It stores your passwords in an AES-256 encrypted form.*  It does not require internet permissions unlike other applications, which means your data is not stored on the internet.* It provides better accessibility in a way that user can save their passwords in the form of categories.* The import/export feature of the application allows user to transfer the credentials in a new environment in case user changes the device. * Another important feature is the password generator. It generates passwords for you with all required validations.* Password manager with fingerprint login (If supported in your device).* On of the best password manager offline tool.Hope this password manager for android will be very helpful for you. This password manager pro version is one time paid app for lifetime use. This is the password manger best version you will ever come up on play store as we don't compromise on user data security. This is a simple password manager tool with all the necessary features. price is almost free (least we can set on play store)",
+            "id": "com.codingtrickshub.passwordsmanager",
+            "image": "https://play-lh.googleusercontent.com/rh5a1YaVkNjMtTG7tVmkX9_-v0CJ_1VZ8avwt09PEIngmXzzRO-NTvCpJUf5ayr2muOx=s180-rw",
+            "rating": "4.3(446)",
+            "category": "Productivity",
+            "developer": "K-T Developers"
+        },
+        {
+            "title": "Animal Camp - Healing Resort",
+            "price": "₹90.00",
+            "description": "[Game Introduction]Have you dreamed of escaping from ordinary life and just go farming?Become an owner of a resort.Run your own resort.Collect various animal visitors,and make your own healing resort.[How to Play]1. Gather materials.2. Build camping facilities and others.3. Grow crops in the field and cook dishes.4. Enjoy fishing and light a campfire.5. Bigger the resort, more animals there will be!▶ It is a paid version that provides 3,000 golden pine cones.▶ Enjoy the free version 'Cat Forest' as well.",
+            "id": "com.poomgames.animalcamp",
+            "image": "https://play-lh.googleusercontent.com/8Y78aTPFoSvFaLIaEjoNbbXZtUhjOmofSmklhj2nQAl-prVFqAPSFHxVEInKeRaJ-9pb=s180-rw",
+            "rating": "4.1(1,480)",
+            "category": "Simulation",
+            "developer": "POOM GAMES"
+        },
+        {
+            "title": "Rocsy Square - Icon Pack",
+            "price": "₹45.00",
+            "description": "How to setting ?-&gt; Download launcher &amp; set it as your default home.-&gt; Apply Rocsy Square icon pack to launcher-&gt; Change launcher settings as follows :Home screen:- Portrait gird : 5x4Drawer:- Portrait gird : 6x4- Drawer background transparency : 0-10%Dock:- Number of dock icons : 5Advanced Settings- Icon size 120%- Icon font : systemFEATURES- Fresh and Gradient color- Full HD 192 x 192px . Ready for future device.- 1.150+ Flat Icons.- All Icons be vector designed- All Icons be redrawn carefully- Compatible with Multi Launcher- Icon Back and Icon Mask- No Advertising- Monthly updates- Capacity light, easy to use- Clean and cool, bright and colorful- Limited time sales- Icon request tool inside the app- Cloud based wallpaper section- Help and FAQ section- Material design theme dashboard- Support lot of launchersThanks and Please give me 5 stars. Get more free apps in the future.Please, if you have any issues with the app, send me an email before writing a negative review or refund. I would help you immediately quickly★★★★★ HOW TO USE ? ★★★★★- Download a supported application launcher (see the list at bottom)- Install the icon pack- Start application and apply. In the list choose your launcher.- If you do not see your application launcher in the list then apply it within your launcher★★★★★ Supported launchers ★★★★★Apex , ADW , Go ,  TSF , Holo , Nova , Holo for ICS , Lucid , Pro , KK , Hola , Solo , Smart , Action , M , N , Etc , Inspire , Lollipop , L , Dodol , ADW EX , Atom , Aviate , Themer , CM Theme Engine , Mini , Nemus , S , Next , Nine , Unicon , Epic , ABC , Evie , LG Home , Nougat , V , Arrow…and most others that have icon pack support.If you do not see your application launcher in the list then apply it within your launcher=&gt; You can also apply icon pack from the respective launcher's theme / icon settingsThis icon pack has been tested. It works with these launchers. However, it may also work with others too. In case you do not found an apply section in dashboard. You can apply icon pack from a theme setting.Notes• Google Now Launcher do not support any icon packs.• Missing an Icon? feel free to send me an icon request and I will try to update this pack with your requests.• FOR LG USERS: LG HOME With latest update LG HOME does not support icon pack on some devices.I am still working on it may be it will work in a upcoming release. So in a mean time you have to use a launcher on LG devices.Follow us and update app onGoogle+: https://plus.google.com/u/0/+RaymondRudo",
+            "id": "com.rainystudio.rocsysquareiconpack",
+            "image": "https://play-lh.googleusercontent.com/8zcVtX4zUINHICYQuCocx9ysjoFy76J0kCM2MUl9a3mK9Yrd3PikXaaWSU645NvS9to=s180-rw",
+            "rating": "4.1(186)",
+            "category": "Personalization",
+            "developer": "A1 Design"
+        },
+        {
+            "title": "Business Calculator Pro",
+            "price": "₹35.00",
+            "description": "This app is the pro version of Business Calculator. Completely without advertisement!This app consists of a Gross Profit Calculator, Price Calculator, Operating Margin Calculator, Effective Interest Rate Calculator, Value Added Tax Calculator and a Break-Even Point Calculator.Gross Profit Calculator:  You are able to calculate the gross profit (absolute value and percentage) and markup (absolute value and percentage). Just enter the cost price and selling price of the product.Price Calculator:  You are able to calculate the price and markup. Just enter the cost and gross margin.Operating Margin Calculator: You are able to calculate the operating margin. Just enter the operating income and revenue.Effective Interest Rate Calculator: You are able to calculate the effective interest rate. Just enter the nominal interest rate and the number of compounding periods per year.Value Added Tax: You are able to calculate the VAT (value added tax) and the price incl. VAT. Just enter the price without VAT and the VAT rate of your country.Break-Even Point: You are able to calculate the break-even point. Just enter fixed cost, variable cost and price of a unit.",
+            "id": "an.BusinessCalPro",
+            "image": "https://play-lh.googleusercontent.com/KaYJYwyIgIkh3hqHYB_PEW1sWDCaCQV9M1PfKxwEA92W0oYnB-opjnVJi6c1oK-KPa4=s180-rw",
+            "rating": "4.2(1,015)",
+            "category": "Business",
+            "developer": "GK Apps"
+        },
+        {
+            "title": "Dog Training with Clicker, No Ads - Puppy Perfect",
+            "price": "₹380.00",
+            "description": "Are you new to dog ownership?Do you have an undisciplined puppy?Is your dogs naughty behavior make dog ownership stressful?Don't worry, we've all gone through this and our app provides you with a fast solution to get things back on track with your puppy before things escalate.Puppy Perfect is a new Puppy Training app which can also be used for dog training older dogs.  The app has a unique style and is very user friendly.  A new Puppy Training app for Android which contains no ads and has a number of interactive tools to help train you dog. Including a dog training clicker. A Dog Clicker is a sound signal to highlight a behavior at a precise time for which your puppy is rewarded.  Effective use of a clicker reduces training time for you dog considerably. Use our built-in clicker to reinforce positive behavior during your training sessions.To get the most out of your app be sure to set up a profile page for your pooch.  Have more than one dog? No problem as this puppy training app supports multiple profiles.  Puppy Perfect features include:A Profile Page for your Pooch where you can add a photo.A Notifications section which highlights important considerations for new dog owners.A Notes section where you can record your dogs training progress or any other information.A Socialisation Planning tool to help Socialise your puppy in the first few weeks.A Dog Training Section with lots of useful lessons for a well balanced dog.A Schedule Planning tool to help consider how you will manage life with your new puppy.A Resources Section with an Equipment List, Recommended Reading and Training Offers.A Common Commands feature which is a quick reference guide containing illustrations and voice cues.A new puppy training app or dog training app can be really useful for new owners. We believe that Puppy Perfect for Android is one of the best new puppy training apps currently on the market.  We believe this as it offers an holistic approach to dog training and dog ownership.  Puppy Perfect puppy training forces new owners to consider all aspects of dog ownership in a fun way and will help you to get on top of your new responsibilities and train your new puppy like a professional.New puppy training should be a fun experience and will strengthen the bond you have with your new companion if done correctly.  We have a ton of new features which we will be adding to this new puppy training app over time which we are truly excited about.Puppy Perfect is a dog training app which contains NO ADS as we feel these can be annoying and detract from the enjoyment that comes from using our dog training app for Android. Thank you for downloading Puppy Perfect, we hope you enjoy using it and we are sure that you will find it useful.  We love to receive feedback regarding any improvements you would like to see so that we can make it even better. Congratulations on your new addition and happy puppy training!",
+            "id": "com.quintessentialapps.puppyperfect",
+            "image": "https://play-lh.googleusercontent.com/qb4M0N1rokGMA2vMlYyACVRgBz9Q9HjNOrseXp8mCSFMq5Sy-dhYlytEKqIiCePnpBo=s180-rw",
+            "rating": "4.3(18)",
+            "category": "Education",
+            "developer": "Quintessential Apps Ltd"
+        },
+        {
+            "title": "Black & White HD -Icon Pack",
+            "price": "₹90.00",
+            "description": "Black &amp; White Icon Pack is a package of black and white icons for those who like this style of icons.In order to use it you simply need to install or have installed a launcher.-&gt; Instructions for use-Open the Black and White application and inside it go to the menu that is in the upper left.-Select set or apply.-It will show you the launchers supported and in the first place the ones you have installed.-Select the one of your preference and press accept.-You do not have any installed launcher just select it and it will take you to the download link of it.-You can also open your launcher and from there apply Black &amp; White - Icon Pack.-Your icon pack is ready.-&gt; Features- 4000+ Custom icons.-80+ Wallpapers ..-Intelligent request of icons via email.-Application easy and simple.-Iconos HD with resolution 192x192 pixels.-Support for the following launchers:Compatible launchers included in the application section:    Action Launcher    ADW Launcher    Apex Launcher    Atom Launcher    Aviate Launcher    CM Theme Engine    GO Launcher    Holo Launcher    Holo Launcher HD    LG Home    Lucid Launcher    M Launcher    Mini Launcher    Next Launcher    Nougat Launcher    Nova Launcher    Smart Launcher    Solo Launcher    V Launcher    ZenUI Launcher    Zero Launcher    ABC Launcher    Evie LauncherCompatible launchers not included in the board:    Arrow Launcher    ASAP Launcher    Cobo Launcher    Line Launcher    Mesh Launcher    Peek Launcher    Z Launcher    Launch by Quixey Launcher    iTop Launcher    KK Launcher    MN Launcher    New Launcher    S Launcher    Open Launcher    Flick Launcher-It is not compatible with the default launcher of your samsung or huawei phone.-Support limited in launcher go launcher because it does not support masking icons.-This package of icons uses the CandyBar board.-Support Muzei-Interface Graphic in several languages",
+            "id": "com.olivera.black",
+            "image": "https://play-lh.googleusercontent.com/MVOngFLquRXLB_9xPeMXxks5sB8X0ZMhQmlEVWLm9VW3DP-MZhYUscGvdJN-Tk9HKerD=s180-rw",
+            "rating": "4.2(147)",
+            "category": "Personalization",
+            "developer": "Olivera Onias Design"
+        },
+        {
+            "title": "Matrix Determinant Pro",
+            "price": "₹50.00",
+            "description": "This app is the pro version of \"Matrix Determinant Calculator\", completely without advertisement!This app is a math calculator, which is able to calculate the determinant of a matrix. The determinants of following matrices are available:- 2x2 matrices- 3x3 matrices- 4x4 matrices- 5x5 matrices- nxn matrices (with more than 5 rows and columns)Best math tool for school and college! If you are a student, it will helps you to learn linear algebra!",
+            "id": "an.DeterminantPro",
+            "image": "https://play-lh.googleusercontent.com/j8NOpdDNp3gsShfP2IrXcRHJoQV2Ojj1kkZv_d0R0tU82EpfKZqS0wve2ubnNlfHmGtx=s180-rw",
+            "rating": "4.4(351)",
+            "category": "Education",
+            "developer": "GK Apps"
+        },
+        {
+            "title": "Flippy Geometry 3D Polysphere Puzzles with Poly",
+            "price": "₹65.00",
+            "description": "Flippy Geometry 3D Puzzles is a brand-new 3D puzzle &amp; brain teaser game!! The gameplay is very simple and relaxing: rotate the puzzle pieces, and as you get closer to the correct angle, the pieces will merge into a beautiful picture of artwork! It is like anti-stress slime simulator. If you are interested in coloring puzzle art and low poly art game or stress relief , Flippy Geometry 3D Puzzles with low-poly illustration  is one of the best choices for you. 3D Puzzle designed for families. Test your brain if you love poly and brain games!Flippy Geometry 3D Puzzles FEATURES:- Super relaxing gameplay: no time limit, no restrictions, take your time and relax with this creative puzzle game. Rotate the picture to match.- Tons of 3D poly puzzles to solve! Challenge your brain and unlock all unique artworks!- Anti-stress effect of polysphere puzzle- Enjoy with animal pictures, fruits puzzle, polygon graphics, shards and many coloring artworks which appropriate for all ages.-10 different categories (training, holidays, drawings, sketch,  blueprints, steampunk, aquarium world, candy and animals, Christmas and New Year - feel like Santa Claus)- Play without internet. Offline game.- Family games.Come play and relax now with poly! You will love this 3d coloring puzzle game.",
+            "id": "com.alieninzen.FlippyGeometry",
+            "image": "https://play-lh.googleusercontent.com/c-z5KVtfRU0fcjhv_ncOeWX1ewe1KTgm0W9wj-0UbiTB0qgw8eZuTg6uViTW6pDq1_k=s180-rw",
+            "rating": "4.9(203)",
+            "category": "Puzzle",
+            "developer": "alieninzen"
+        },
+        {
+            "title": "Number to word converter offline",
+            "price": "₹50.00",
+            "description": "Its simple Number to words converter app that converts the numbers you entered into words, you can copy, share converted words directly from the app.Number to word converter app is 140 kb in size and no internet require, app do not asks for any permission as its simple stupid app just to convert numbers to words.Please email us if you have any suggestions and if you like the app, please rate app on playstore.Thank you.",
+            "id": "com.light.numbertoword",
+            "image": "https://play-lh.googleusercontent.com/nWfcgyo7vQzRjDfFt3bmci0NDYHkhDW13Funj_f5lSq9WFQP0nQ9DSt9xbCGtUtz5DCH=s180-rw",
+            "rating": "4.1(29)",
+            "category": "Tools",
+            "developer": "The Elegant apps"
+        },
+        {
+            "title": "Kids Puzzle - learn 82 animals",
+            "price": "₹130.00",
+            "description": "Are you ready to join our 82 funny animals on an amazing educational adventure in the SeaWorld, Farm, Savannah &amp; Jungle?  We did some simple math, and created a *game-a-licious theory* \"Super cute animals + Puzzles + Animal sounds + Animal pictures + Animal videos + Fun facts  = The BEST educational game for preschool children\".  Watch as your baby toddler learns first words &amp; alphabets and the big brother or sister practice their speech &amp; pronunciation. Motor skills development &amp; matching different jigsaw shapes of funny zoo animals has never been so fun, because now we have a reward after each finished puzzle, beside the regular balloon pop, your kids get to hear the animal name, the sound that it makes, read fun facts and watch real life pictures or videos. This NO ADS game is super-easy and super-educational, making it appropriate for kids of all ages as well as children with autism.Gameplay &amp; Features:- 82 hand-drawn animals from 4 fun themes to play with: Aquatic, Farm, Savannah &amp; Jungle.- creative game play where each animal puzzle piece is broken very intuitively.- theme specific ambient music and cute sounds in the entire game to make it more interesting for your young ones.- tons of animations &amp; maximized interaction with all objects &amp; puzzles for lots of giggles and laughs.- applause, cheer and balloons on successfully completing each animal puzzle.- animals come to life and play the animal name and audio sounds.- select the image icon to see real animal pictures, the video icon to see the animal in motion and read the unique facts of each animal which are presented with the images.Privacy Disclosure: As parents ourselves, iAbuzz takes children's wellness and privacy very seriously. Our app:• Does not contain sharing links to social networks• Does not contain advertising• Does not collect personal dataFeedback Please:If you have any feedback and suggestions on how we could further improve the design and interaction of our apps and games, please visit our website http://iabuzz.com/ or leave us a message at kids@iabuzz.com. We would be glad to hear from you as we are committed to update all of our apps and games on a regular basis with new features and also want to get some ideas for future app development.",
+            "id": "com.ibuzz.apk.puzzle4kids82",
+            "image": "https://play-lh.googleusercontent.com/3IVP5xd8-YPEJIhhpPsSvwxNW57zn0Wi8Mh_RDHbE0Q6KQGaTbxf8hlyUcrK2c5Xv6Q=s180-rw",
+            "rating": "4.2(328)",
+            "category": "Puzzle",
+            "developer": "Abuzz"
+        },
+        {
+            "title": "Shadow of Death: Dark Knight - Stickman Fighting",
+            "price": "₹28.00",
+            "description": "🏆 Premium feature: Unlock all 4 characters including the fan-favourite Lunae - the beautiful Keeper of Time and Space with a powerful high-speed scythe attack!🎯 Note: This is a stand-alone game. You cannot transfer your data from the free version to the paid version.A Brand New Dark Fantasy Epic Plunge into the darkness and experience the greatest pocket sized fantasy RPG of the ages. Whip out that shadow blade and select a customizable dark knight to go on a side scroller adventure anywhere at anytime. Freely experiment with multiple gameplay styles, wicked rare armor sets, and robust skill trees to create the best shadow knight possible. An offline fighting game with the soul of a console RPG is not what this generation of gamers deserves, but needs! The shadow of war is rising, will you accept the challenge?Choice to the Players Choose from a cast of four unique shadow knights each representing a vastly different play style. Whether players want to slash or force projectile their way to victory is in their hands, quite literally! Delve into a robust skill tree and deep inventory system that encourages endless combat experimentation and customization. We even have a young boy's soul in a hulking suit of armor, what other game can top that?     Conquer the Darkness in Style Inspired by classic fighting games and modern action RPGs, combat is a high-octane blend of magic and weapons based hack and slash gameplay. An intuitive touch screen interface provides different options to strategize combat and devastate enemies. The unique battle system is accessible for any player yet deep enough to satisfy the most hardcore action RPG fans. What are you waiting for? Grab that mystical dark sword and plunge into darkness! A Beautiful Ruined WorldDriven by an all new animation system and graphics engine, players are going to be saying, \"I can't believe it's not a console game.\" That's right, the game looks that good! Optimized for mobile gaming, the gothic fantasy world of Aurora is uniquely cel shaded to deliver jaw dropping magical effects and epic combat sequences to life. Play Anywhere, Anytime We put the “pocket” in pocket sized RPGs! Experience the thrill of combat anywhere, anytime as Shadow of Death is an offline game. No need to be online to defeat the shadows. Challenge the Universe     When beating down shadow monsters just does not cut it anymore, take your game online! Vie for ultimate supremacy as you battle with other players in the Arena. Unlock the Dream Team Tired of grinding to unlock the next character? The paid version of Shadow of Death has all four shadow warriors unlocked from the start. Now players can conquer the darkness like never before and get to the good stuff way faster. Story: A Dark Knight's Journey Aurora, once a prosperous kingdom has fallen. An ancient darkness reborn savages the land with brute force. Crops decay, winds scream with rage, and the dead stir.   In his lust for power and forbidden knowledge, a king has forsaken his people to ruin. The people cry for hope.  A lone knight, cleansed of memory but driven by conviction is all that stands between utter annihilation. Marked by destiny, he walks alone towards the whispering shadows. Take your game further and level up with us! Engage our team on social media for the latest events to get gift codes, rare armor sets, loads of crystals, and other juicy prizes. VISIT US: Shadow of Death – Dark Knight – Stickman Fighting Game fanpage:https://www.facebook.com/ShadowOfDeath.FightingGame/LIKE US: group:https://www.facebook.com/groups/ShadowOfDeath.FightingGame/FOLLOW US: Twitter: https://twitter.com/Zonmob_GamesGRAM WITH US: https://www.instagram.com/shadow_ofdeath___/?hl=en",
+            "id": "com.Zonmob.Stickman.FightingGames.ShadowOfDeath",
+            "image": "https://play-lh.googleusercontent.com/_uvwkKrq7H3KNosw7YEHQ-VLtagCGU92qgKf_q53jlxmF_smmDcm4z2TGRzBSf1iWg=s180-rw",
+            "rating": "4.5(233,549)",
+            "category": "Action",
+            "developer": "Bravestars Games"
+        },
+        {
+            "title": "Reading Raven: Learn to read phonics adventure",
+            "price": "₹170.00",
+            "description": "Reading Raven is an extremely engaging learn-to-read educational game that provides step-by-step reading lessons designed to help young children build a solid foundation for reading.Praise for Reading Raven:▸ Voted Most Awesome Kids App of the year by over 100,000 Red Tricycle readers▸ Parents' Choice Award Winner ▸ Rated as Among Best Reading Apps for 4 to 8 Year Olds by Brightly ▸ Rated Among Best Apps to Teach Your Kid How to Read by Huffington Post▸ Voted Among Best Children’s Educational Apps by Teachers with Apps▸ Rated Among 7 Best Apps That Can Teach Kids How to Read by Lifehack____________________FEATURES:- Self-paced lessons take kids all the way from pre-reading to reading sentences!- 11 types of super fun games/activities that teach critical sub-skills for learning to read!- Configure profiles for multiple children!- Fully customizable by age or reading level!- Speed and tolerance dynamically adapt to motor control ability!- Works on both Android phones and tablets!- Sticker rewards that reinforce what was learned!- No pressure tactics!- Extremely effective voice instructions and feedback!- Free form letter and word writing!- Children can pause and save their progress anytime!- Beautiful hand-illustrated artwork!- No third party advertising!- No external links to social network sites!With the Reading Raven companion guiding them along, children will go on delightful fun-filled adventures where they will encounter fly eating frogs, caterpillars that turn into butterflies, circus acrobats, ball balancing seals, underwater sea creatures, snow monsters, flying penguins, space robots, rhyming rockets, and much more!Reading Raven includes the following progression of self-paced educational activities:Ages 3 and Up- Letter matching- Letter tracing- Letter recognition- Word matchingAges 4 and Up- Vocabulary- Word beginnings- Word building (spelling)- Word spottingAges 5 and Up- Reading aloud using voice recording- Word tracing- Word groups (rhyming and beginning sounds)Reading Raven includes five extensive lessons, with hundreds of individual activities in total. Parents and teachers will find the multi-sensory learning games to be a great complement to traditional classroom and home-based reading instruction.Recommended Ages: 3-7Build your child's reading confidence with Reading Raven and watch their learning take flight.Happy Reading Adventures!____________________MORE INFO, FEEDBACK &amp; SUPPORTLearn more about the product and our team: http://www.readingraven.com/Like us on Facebook: http://facebook.com/readingravenFollow us on Twitter: http://twitter.com/readingravenIf you have feedback or suggestions, please email us at feedback@earlyascent.com. We’d love to hear from you!____________________PRIVACYWe have kids too and take the privacy of you and your children seriously. This product does not collect any personally identifiable information by default.",
+            "id": "com.readingraven.android",
+            "image": "https://play-lh.googleusercontent.com/ewee2ljusVb3_AeYp1hOK5w4BtTKrgEV1_FRENWJYZifbV8_d3EghoGDQcNrbaf2Kag=s180-rw",
+            "rating": "3.9(106)",
+            "category": "Educational",
+            "developer": "Early Ascent LLC"
+        },
+        {
+            "title": "Decimal to Fraction Pro",
+            "price": "₹50.00",
+            "description": "This app is the pro version of 'Decimal to Fraction'. Completely without advertisement!This mathematical app is able to convert decimal numbers into fractions. Very useful tool for school and college!",
+            "id": "an.DecFracPro",
+            "image": "https://play-lh.googleusercontent.com/3jkAN95ZQpj5bJPEzGGliqh3JrI5HuFk-HIpkSnHYM3LVZLxwV3UEGwxPxyXJx5P6w=s180-rw",
+            "rating": "4.3(1,142)",
+            "category": "Education",
+            "developer": "GK Apps"
+        },
+        {
+            "title": "NEW Math puzzles 2",
+            "price": "₹65.00",
+            "description": "<h1><b> Math puzzles PRO 2 is the continuation of the popular game Math puzzles PRO. New version of Math puzzles PRO with new unique puzzles. Are you ready to solve new puzzles and develop your logical thinking? </b></h1>Objective of the game is to find patterns hidden in the puzzle in order to arrive at the solution. This game helps in enhancing your- Observation skills- Logical reasoning- Out of the box thinking- Mathematical knowledgeThis game contains 80 challenging brain teasers. Each brain teaser offers a different and unique challenge which forces the user to think in unconventional way.Play these puzzles with your friends to see who can solve the puzzles faster.Please leave us an assessment, feedback and let us know what you think about the applications. We want to continue to create some of the best applications for Android devices in the future. Your feedback will play a big role in improving applications and future updates.Enjoy!",
+            "id": "com.b2a.mathpuzzlespro2",
+            "image": "https://play-lh.googleusercontent.com/ltNB9Z3vtzYfhpRCqkoGRVyZQjrqg-pKo74xSo7SqSd9h1k8GEgSb0aooH37V26gh2gC=s180-rw",
+            "rating": "3.8(239)",
+            "category": "Puzzle",
+            "developer": "B2A Apps"
+        },
+        {
+            "title": "Shortcut Manager - Pin shortcuts @ home screen",
+            "price": "₹55.00",
+            "description": "Shortcut Manager app to create shortcuts of apps, activities and other shortcuts for android. Its App shortcut maker / app icon changer app that places icon for apps on your home screen. Customize app icon and shortcuts.Shortcut manager is shortcut maker app that creates app shortcuts with icons from icon packs, from gallery photos, you can create shortcuts of apps activities, there are many apps contains hidden activities, for them you can create icon to access it quickly.You can create shortcuts with personalized icon for contact, direct dial, sms and other shortcuts available in android OS.☆ How to remove watermark:On Android 8.0 and above, the android system automatically add a watermark to the shortcut icon. we do not have control on this.Features:◇ Create shortcuts of apps, activities &amp; android shortcuts.◇ Customize app icon and shortcuts.◇ Quickly access android settings such as Bluetooth, wifi, location and many more.◇ App browser with complete app details.◇ Change app icon using gallery photos, icon packs.◇ Clean and easy UI.App need following permissions to complete the task, please allow this permission for the app when you first time open the app.Permissions:☆ Modify system settings: permission needed in case you are creating shortcuts of activities those modifies system settings☆ Read Contact: permission require if you create shortcuts of contact☆ Phone: Permission require if you use direct dial shortcut☆ SMS: Permission require if you use SMS shortcuts.☆ same way many permission needs to be given based on the shortcut you creates.Note: ✔ Not all activities are executable. so may be you get error for activities those require special permissions/✔ Some android shortcuts may give error as access to them are restricted for selected apps only.Please try app and let us know, what more we can do to improve the app and to make app more useful to all users.If you like the app, please leave your review and rating on playstore.Thank you.",
+            "id": "com.bhanu.simpleshortcutmaker",
+            "image": "https://play-lh.googleusercontent.com/outuYSzk0ChKUQCoQR6i-7Cske27nJr89-do1zzRAJvuH-NvRl6CFUi61pJHuntm5Q=s180-rw",
+            "rating": "4.4(117)",
+            "category": "Personalization",
+            "developer": "Yogesh Dama"
+        },
+        {
+            "title": "Hex AMOLED Neon Live Wallpaper",
+            "price": "₹290.00",
+            "description": "Enjoy the beautiful geometric hexagons on your screen. This live wallpaper is specially designed for Amoled screens. It is fully customizable and fully adjustable to meet your needs. Optimized for Ultra low battery consumption. Try it and we're waiting for your feedback!",
+            "id": "com.crydata.mylivewallpaper",
+            "image": "https://play-lh.googleusercontent.com/i1QpmfeuEQDAZrgp9ux8W25n81JqWDxWk8WPNwriEfPvQRHcLcI-E8boQlb_sCFxtNM=s180-rw",
+            "rating": "4.2(64)",
+            "category": "Personalization",
+            "developer": "Crydata"
+        },
+        {
+            "title": "Alice Trapped in Wonderland",
+            "price": "₹90.00",
+            "description": "Discover &amp; solve the amazing secrets inside the extraordinary Wonderland, Explore this incredible and shocking world while solving the most emblematic puzzles and reveal all the exciting secrets in the best point and click adventure game available for mobile devices. Features: - Amazing &amp; attractive graphics. - A deep &amp; catching story. - Hours of addictive entertainment. - Incredible funny and witty puzzles. - Many different surroundings to discover &amp; explore. -\"Map\" \"Clues\" and \"Hints\" features to help you get trough the game if you get stuck.- An interactive story, very original &amp; unique. - Excellent design of the game levels and puzzles. - High-resolution graphics optimized every device. - Multiple languages, auto save and much more... Plot: Many years have passed since you, Alice Liddel, dreamed about a land full of wonderful and amazing things. You don’t remember almost anything about the last time you visited it...And just now you receive a mysterious letter that says: \"Dear Alice meet me at the old tree where you first saw me, your presence is frabjously important.\" White Rabbit. When you read those words, all those extraordinary dreams and fantasies got back to your imagination, which filled up your mind when you were just a little girl, but it also makes you think about... “Dreams don’t send mail... do they?” Worried by the curiosity that you felt when you were child, you decide to go and meet the rabbit. You came to the right place but you don’t see the rabbit anywhere, in fact you realized that you couldn’t even see him, when he was right in front of you. Everything seems so strange but the exciting curiosity, just like the one you used to have when you were a child, forces you to continue. Buy it now!! If you are new at playing adventure games, download it now, you won’t ever regret it, actually you might become instantly a fan of the genre, if you're a fan, you’ve probably bought it already, you weren’t just miss this opportunity. Good Luck!!",
+            "id": "com.mediacitygames.alicetrapped1",
+            "image": "https://play-lh.googleusercontent.com/yZp1iWnmrJdvu-vWEzKrPya8H6AkqzUayNvdf-Z3xshPBFfmK_CQ3JT0GstHcqoMhn4=s180-rw",
+            "rating": "4.2(455)",
+            "category": "Adventure",
+            "developer": "MediaCity Games LLC"
+        },
+        {
+            "title": "Dungeon Corporation S: An auto-farming RPG game!",
+            "price": "₹90.00",
+            "description": "Super RewardsFairy Stone 200 + Break Block 5&gt;An auto-farming game!The ultimate idle game for farming items to become infinitely more powerful!!&gt;Freestyle growth strategies!You can power up your hero via numerous items and options, various stats and proficiency systems to your heart's content!Privacy Policy : https://notice.bigshot-games.xyz/privacyAgreement",
+            "id": "com.bigshotgames.legendaryItemSuper",
+            "image": "https://play-lh.googleusercontent.com/aDTH_qaD_O7amv7C78Yh_SWOVR-o7uLcKdw7k4tlwZVW9FTudi-6ATZjVIQKlqhv9m8=s180-rw",
+            "rating": "4.0(928)",
+            "category": "Role Playing",
+            "developer": "Bigshot Games"
+        },
+        {
+            "title": "Race 3D - Cool Relaxing endless running game",
+            "price": "₹110.00",
+            "description": "Race with others and win to complete levelFeatures:Colorful design. color changing randomly during game playUnlimited levelsSupport for phone and tabletsmooth one touch controls",
+            "id": "com.gamedev.race3d",
+            "image": "https://play-lh.googleusercontent.com/sc6_nFeC3oBI3xeFHCTyFArrkDDH4U4Ao0c32L3dFL7ruKR15mkT7TO992eWYF-nmO0t=s180-rw",
+            "rating": "4.4(4,118)",
+            "category": "Arcade",
+            "developer": "ARSL GAMES"
+        },
+        {
+            "title": "Dungeon & Pixel Hero VIP",
+            "price": "₹70.00",
+            "description": "■■■■■■■■■■■■■■■■ VIP ■■■■■■■■■■■■■■■■■■■■■- 500 GEM(click top vip button)■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■[Game Introduction]Weapon Collection Action RPG!Collect various weapons and artifacts, conquer dungeons and become the ultimate pixel hero![Game Features]◈ convenience to enjoy with one hand!◈ Optimized for killing time with automatic hunting and 1.5x speed!◈ Various weapons and equipment upgrade system◈ Mining system to get gems for free◈ Various skills according to hero",
+            "id": "com.pixelstar.DNPHVIP",
+            "image": "https://play-lh.googleusercontent.com/VpLyLXPZGvL7Vj6emB0UXHHzceElMpOZR4ULvONM_ycT-vxvLdLvnPEz2JDk2Yh12w=s180-rw",
+            "rating": "3.9(4,608)",
+            "category": "Casual",
+            "developer": "PixelStar Games"
+        },
+        {
+            "title": "Epic Heroes War: Shadow Lord Stickman - Premium",
+            "price": "₹20.00",
+            "description": "Premium = 1$ --&gt; 5$ = 30k gems. Epic RPG real-time strategy action game.Epic Heroes War is a real-time strategy game, online side-scroller defense combines RPG. Build up a powerful army and slaughter enemy hordes in quests and battles with other players!Key features:★ An unique game, not duplicated with other games on the Store★ Lot of heroes with unique skills★ Lot of campaign levels, Online PvP, Domination, Challenge, Heaven &amp; Hell map ...★ Local Bosses★ Nation War★ World Bosses★ Auction★ Boss party★ Guild War★ Arena★ Real-time strategy PvP 1VS1 battle.",
+            "id": "com.divmob.epicheroeswar.en.freemium",
+            "image": "https://play-lh.googleusercontent.com/otEAVXa2NNyIhEB46xN8oZNX4MoJgyqfBY6oOSgFcTBwYqW4A_eSB0aTBbKv0Xgwq0A=s180-rw",
+            "rating": "4.4(12,487)",
+            "category": "Adventure",
+            "developer": "DIVMOB"
+        },
+        {
+            "title": "Monkey GO Happy",
+            "price": "₹55.00",
+            "description": "Over 75 stages of puzzling fun to complete!Monkey GO Happy from Pencilkids is an internet sensation that has reached millions of players online. Now the original 5 Monkey GO Happy games have been compiled into one great app. Monkey GO Happy regularly reaches the  #1 spot on Primary Games and other popular flash gaming websites. Now it's available for your Android device.Features:- over 75 beautifully designed stages- 30 Hats to dress up your monkey- 7 different monkeys to choose from- Ad FREE- NO In-app purchases- Automatic save progressInstructions: Tap on objects and locations on the screen. Drag items to specific spots  to solve puzzles and more!",
+            "id": "air.com.pencilkids.monkeygohappy",
+            "image": "https://play-lh.googleusercontent.com/Ta0kidYo-OO0XUCfsKlW8nL3qiscr6gX2xKIyHGlJwpF41b1uBhbC7OyUqMdaxGDClg=s180-rw",
+            "rating": "4.3(3,402)",
+            "category": "Educational",
+            "developer": "Monkey GO Happy"
+        },
+        {
+            "title": "Mystic Guardian PV: Old School Action RPG",
+            "price": "₹280.00",
+            "description": "＊This paid version of Mystic Gardian is full-screen ad free, and unlocking the final chapter is free of charge.＊If you can not log in to the Google Play service, please update your Google Play service and Android OS to the latest version.As a great fan of JRPGs themselves, the two creators of Mystic Guardian were dedicated to create a game that has the feeling of classic JRPGs in the 90's. After 5 years of developing and refining to get the right atmosphere, Mystic Guardian is finally ready to bring you back to the past.■■■ Game Story ■■■- Experience the fantasy world of steampunk with machinery and alchemy.- Two playable main characters with completely different storylines.- Secret storielines and alternate endings that are unlockable by replaying.- More than 500 narrative scenes.■■■ Class Change ■■■- Total of 7 classes you can switch to.- Each class has its own unique skills that can be permanently learned.■■■ Battle System ■■■- More than 150 skills you can use during the battle.- Extremely satisfying combo attacks.- Create your own skill combinations.- 60 ultimate boss battles.- Powerful summons with various upgrades.■■■ Raid Mode ■■■- Challenge the infinite battle in endless dungeons.- Compete your score with other players.",
+            "id": "com.buffstudio.mysticguardian.paid",
+            "image": "https://play-lh.googleusercontent.com/XwOGBTSp7_mbsq1B9Y23empait3HWFG0KvSpTMcM4bfgGc8tO1QARLmyOwq2o7EL48E=s180-rw",
+            "rating": "3.9(20,975)",
+            "category": "Role Playing",
+            "developer": "Buff Studio co ltd"
+        },
+        {
+            "title": "Boymate10 Find5X - Brain Card Game",
+            "price": "₹28.00",
+            "description": "Those who trust their intelligence here. You will love the exciting new card game find5x that makes you think.Find5x is a unique strategy game created with a very special scoring system.Find5x is a fun new game with universal, intelligence-enhancing features.Everyone likes their simple rules and understandable style of playing.In addition to being a deep and expert scoring system; The player, who is not familiar with the scoring system, can easily achieve successful results with a little glory, paying attention to a few rules.Find5x can play the game in any age range.How is the game played? Those who want to specialize in a very simple way can additionally get help from within the application and from the site.The game consists of a total of 54 colored geometric number cards. And each card has a game-specific point value and rank. In the game, 34 cards are dealt to the parties, 17 of them each, and 20 cards are left on the deck.After each hand has been strategically chosen and discarded 3 cards, a card is received and the game lasts 9 hands. The first 8 hands with the highest number of cards in the game wins plus 100 hand points. The final hand point is a surprise and is 300 points. The player with the highest total score of 9 hands wins. The additional points of the game determined by special coefficients are also calculated and written on the leaderboard.While the total points are obtained in the game, if the last digit of the total points ends with 5, 5 times the points are earned.In addition, if one of the cards is 5, or if the sum of the two cards is 15, then 5 times the points are earned.By trying to find 5 in the game, bonuses with special mathematical calculations are tried to be earned.Systemic and mathematical thinking discipline gives decision-making and intuitive thinking ability to the player of this game. The memory of those who play also strengthens. In addition, the people who play, get away from stress and have a fun time as a result of the exercises that develop intelligence.ABSTRACT: * Card Game Lovers.Those who want to play new games.Those who trust their intelligence.Those Who Seek Strategy Game.Those who want to have fun.You will surely love this game and you will not be able to give up.You can find detailed information about the game on our site and videos.You can send an e-mail for your requests and suggestions.Also, those who want to support: They can come back with comments and likes.Thank you now. Welcome to the Boymate10 family.Site:https://en.boymate10.com/ &amp; Mail: boymate10@gmail.comCreator of Boymate10,Bar10n İlhami Savaş OKUR",
+            "id": "com.games.boymate10.find5x",
+            "image": "https://play-lh.googleusercontent.com/1AwQ4wUWswbaitRgTcrCk12vVU-28Ci4Y0d8ABHE01bJWYzX66ctMG-3JgmBOuMIi4e3=s180-rw",
+            "rating": "4.1(7)",
+            "category": "Card",
+            "developer": "İlhami Savaş OKUR"
+        },
+        {
+            "title": "Cartoon Craft",
+            "price": "₹10.00",
+            "description": "What is Cartoon Craft?This is a real-time strategy game. Get ready for the real battle!How to play?- Use worker to collect gold and lumber.- Build a building like barracks to produce soldiers, archer, sword man, tank, troll and other units- Eliminate your enemies with your armyYou have to decide whether you go for the rich man strategy or poor faster guerrilla way. And you may need a lot of defense towers when you collect  resource. When you have enough army and ready to battle, scout and attack opponent's base.Come join the battle and save us!",
+            "id": "com.magmon.cartooncraft",
+            "image": "https://play-lh.googleusercontent.com/q2GbzLCuaCQ9QGnHFMNHejzkMrudabNeePcXCNSmP2Hog73NKrJBNKcYKplWA9wf_A=s180-rw",
+            "rating": "4.3(49,023)",
+            "category": "Strategy",
+            "developer": "Studio NAP"
+        },
+        {
+            "title": "Ages 6+",
+            "price": "₹180.00",
+            "description": "In a world dominated by black and white, two elements are seeking a path to reunite and restore the harmony. Guide the light elements to destination and meet halfway using the help of the other objects strategically placed across the level and prove incredible puzzle solving skills by succeeding in mind bending situations. Halfway features:· Challenging hand crafted levels grouped into 4 chapters.· Play Offline, no internet connection required to play.· Beautiful, minimalist artwork &amp; animations.· True black and white graphics.· No violence, stress free; play at your own pace.· No ads, no in-app purchases. Buy it once, own it forever.· Simple controls, Swipe to move· Easy to learn; no instructions needed!· Optimized for all android devices.",
+            "id": "com.crevasse.halfway",
+            "image": "https://play-lh.googleusercontent.com/zz0nUZ96rHeiHsAFdifuM0BtTOyrnRkZ-fyr5sb9MSsy5-HkHNVp5TZMYCRsIncgHQ=s180-rw",
+            "rating": "4.3(154)",
+            "category": "Puzzle",
+            "developer": "Tepes Ovidiu"
+        },
+        {
+            "title": "FLUX - Icon Pack",
+            "price": "₹30.00",
+            "description": "Features:1000+ Handcrafted vector iconsExclusive wallpaperDynamic calendar iconsSupport for over 20+ launchersRequest toolSupported Launchers:Action LauncherADW LauncherApex LauncherGO LauncherHolo LauncherLawnchairLineage Theme EngineLucid LauncherNova LauncherSmart LauncherSolo LauncherTSF LauncherOthers (may require apply via launcher settings)Requesting for icons:Use the built-in icon request tool found inside the dashboard to request for icons!Suggestions and ideas:If you have an idea or would like to have an icon changed for any reason. Feel free to e-mail me at pixelflow.help@gmail.com",
+            "id": "pixelflow.flux",
+            "image": "https://play-lh.googleusercontent.com/cAQ4BugnGwkM1bx3IRg7ABr-AIUwkwc2Fv_zTpXBt4gAJxsSYKZeXxDY1J69Uha7Nw=s180-rw",
+            "rating": "4.4(21)",
+            "category": "Personalization",
+            "developer": "Pixelflow"
+        },
+        {
+            "title": "SM WiFi Router Setup Page Pro (Official)",
+            "price": "₹360.00",
+            "description": "<p><strong>WiFi Router Page Setup</strong> is a Simple way to access WiFi router setup and default wifi router password.</p><p><strong>Wifi router page setup key features:</strong></p><ul><li>Show list of routers admin password,username</li><li>Scan wifi network for wifi thief detector</li><li>Get wifi Information</li><li>Wifi Router Page setup</li><li>Wifi Manager</li><li>Who use my wifi for free</li><li>WiFi Router Information</li><li>Ip Adress</li><li>MAC address</li><li>WiFi Password</li><li>Wifi Speed Test</li></ul><p><strong>Common wifi router related questions users may face:</strong></p><ul><li>How to login to a wifi router?</li><li>How to set up wifi router?</li><li>What is my wifi router password?</li><li>What is my wifi router username?</li><li>How to know who is connected to my WiFi network?</li><li>What is my wifi link speed?</li><li>What is My IP address?</li><li>What is my MAC address?</li><li>What is my SSID?</li><li>How to reset wifi router?</li></ul><p><strong>WIFI Info:</strong> IP Address, Physical Address, Net Mask, WiFi Encryption, WiFi Frequency, IMEI Number, Device Model Info, Manufacturer, MAC Address, Netmask, External IP Address, Network State(Hidden/Visible), DNS Server, System Uptime, DNS Address, Gateway (192.168.0.1) and much more info.</p><p>This app \"router setup page\" automatically detects your gateway which is 192.168.1.1,192.168 15.1 or 192.168.10.1 etc. which you have to search through a laptop or a computer before. Things you can do with this App are Wifi password change, router password, router settings, WiFi settings, etc. You can also change the router password as we have provided the list of default wifi router admin username and password. router settings.</p><p>Router default passwords list of TP-Link, D-Link, NetGear, Asus router, etc.</p><p>admin setup, ping, Wifi link speed, wifi router info such as IP address, DNS, MAC address, etc.</p><p>Router passwords, router admin logins with username and password.</p><p><strong>Please note:</strong> this is NOT an hacking tool.</p><p>Thank you for viewing Wi-Fi Router Settings App.</p><p><strong>Contact us</strong> if you have any questions: smallseotools@gmail.com</p><p>&nbsp;</p>",
+            "id": "com.sm.RouterManager.RouterSetupPagePro",
+            "image": "https://play-lh.googleusercontent.com/vVb_WbCDX97Z5hQ_TJFBETvFbx53UHBXSZc-MAAsv16dDz4NfU9ye2G-7_fX9Asw24Y=s180-rw",
+            "rating": "3.7(157)",
+            "category": "Tools",
+            "developer": "Small SEO Tools"
+        },
+        {
+            "title": "Cake Duel",
+            "price": "₹440.00",
+            "description": "Cake Duel is a game of deception. Bluff your way to taking all the cake in this fast-paced card game for 2 players. Fleece your opponents by playing sets of adorable Sheepie troops. Go on the offensive to steal your opponent's cakes while defending your own. Lie about your cards to get ahead, but don't get caught!If you love games like Poker, Werewolf, and BS, then Cake Duel is the game for you! * This is the official mobile adaptation of the physical card game Cake Duel *LIGHT CARD BATTLESPlay cute Sheepie cards with fantasy themes to sneak by the enemy's defenses and steal their cake. TAKE THE CAKELook at all that delicious cake. I mean LOOK AT IT. Don’t you want to take all the cakes? You know you do. It’s cheat day.CALL THE BLUFFCatch your opponent bluffing and you'll win the round! There's no way their opening hand had all THREE wizards... right?  STYLE ON YOUR FOESA successful bluff with the Sir Wolfy card will disrespect your gullible opponent with unlockable taunts.ONLINE CROSS PLATFORM MULTIPLAYERCreate custom lobbies with friends on iOS or Android, queue up against other players online, or play solo against AI opponents. ~~HOW TO PLAY~~In Cake Duel, players take turns attacking each other with Archer, Soldier and Wizard Sheepie while the defending player blocks with Defenders and Scientists. Each player plays any number of their cards face down and declares what they've played (you can lie of course!). You can call the opponents bluff about their cards, ending the round. If you called right, you win! But if the opponent was telling the truth then they win the round instead.If neither player calls the bluff, the face down cards are assumed to be the real thing. Each defender blocks one Soldier or Archer, while each Wizard blocks one scientist. Any attacking Sheepie that are unblocked steal cakes from the defender.Players draw back to 4 cards each from the same deck, so pay close attention to what your enemy has played!After all cards are played, the player with the most cake wins the round! All matches are best 3 out of 5 rounds. **A fast and visual rules tutorial is built into the game that you can revisit at any time!**",
+            "id": "net.Sizigi.CakeDuel",
+            "image": "https://play-lh.googleusercontent.com/CA6NzIzOKGSgGHB7FSqrIqZhnP5fq7B1RQlAvOwiHC2HoksqTYPOBY1CSOv5ePoLJ4A=s180-rw",
+            "rating": "4.0(282)",
+            "category": "Card",
+            "developer": "Sizigi Studios"
+        },
+        {
+            "title": "First Coloring book for kindergarten kids",
+            "price": "₹130.00",
+            "description": "A creative toddler game that helps young children develop their imagination, hand-eye coordination and fine motor skills. Coloring with this color game will enable your kindergarten kids to create their own unique world of creativity and imagination. A fantasy world where the animals and nature have funny colors, paint your lion pink or color the sheep blue, make the tree purple and the river orange, there are no rules when it comes to art. Painting with this educational baby game is really fun, you can turn your tablet or mobile device into a digital painting book canvas within seconds – the rest is as simple as it gets, paint with your fingers, change colors as many times as you want, save, start over  – it never gets boring. Game Features:* Finger painting and doodling within the borders. The most simplified coloring experience designed especially for preschool kids. You can paint as freely as you want but the paint will stay within the lines of the region you started painting in. Your baby will be so happy and proud with the finished results. Happy Baby = Happy Mother and Father.  * 6 different painting tools - watch your fingers transform into digital coloring pencils, smudge away with some paint brushes, sketch with colorful markers and crayons, get into graffiti mood with our spray tubes, or choose the one that your toddler will love the most, the bucket tool and fill whole regions with one tap.* 300+ unique coloring pages spread out through over 30 different drawing themes ranging from animals and dinosaurs, to cars and sports. Everything that will keep your kids engaged for hours. * You don’t have to worry about losing any of your children’s drawings any more, progress is saved automatically as you paint, but you can also choose to save them in the app gallery or even save the paintings to your device. Made a mistake? No problem, we’ve got you covered. Use the undo option, the eraser option or simply start over by pressing the trash option.* International Art Wall of Fame – we have a place where we keep all the precious artwork that you and your friends from all around the world send us and you can browse it too from within the app.",
+            "id": "com.iabuzz.ColoringBook",
+            "image": "https://play-lh.googleusercontent.com/r2sld4Qa9wdWKbI20NjN3wXZyeMIpIEYiSm6r1JpHo2Mxf1uvuunsX6D4uvM_IAU5A=s180-rw",
+            "rating": "4.2(201)",
+            "category": "Educational",
+            "developer": "Abuzz"
+        },
+        {
+            "title": "Fractions Math Pro",
+            "price": "₹10.00",
+            "description": "This calculator is the pro version of 'Fractions Math', and completely without advertisement.This math app is a fractions calculator with various functions:- add, subtract, multiply and divide fractions. - convert fractions in decimals,- simplify fractions- compare fractions - find the lowest common denominator- fraction trainer, to learn fraction calculations",
+            "id": "com.gkapps.calculate.fractionsmath",
+            "image": "https://play-lh.googleusercontent.com/FZKhhbHJ2-jBtJ9xZTFLiIpEA0KVNyv4CVqlteVslMT2wUTPF0Nf5JyDTsrNBqI9eQ=s180-rw",
+            "rating": "4.1(706)",
+            "category": "Education",
+            "developer": "GK Apps"
+        },
+        {
+            "title": "Ethical Hacking & Quiz: Beginner to Advance 2020",
+            "price": "₹100.00",
+            "description": "✴An ethical hacker (white hat hacker) is the ultimate security professional. Ethical hackers know how to find and exploit vulnerabilities and weaknesses in various systems—just like a malicious hacker (or a black hat hacker). In fact, they both use the same skills; however, an ethical hacker uses those skills in a legitimate, lawful manner to try to find vulnerabilities and fix them before the bad guys can get there and try to break in.✴►An ethical hacker’s role is similar to that of a penetration tester, but it involves broader duties. They break into systems legally and ethically. This is the primary difference between ethical hackers and real hackers—the legality.☆Gives latest hacking news &amp; updates every time.Consist of the phases -&gt; * Beginner * Intermediate* Advance* Beginner -&gt; Beginners Guide-&gt; What is Ethical Hacking-&gt; Type of Hackers* Intermediate-&gt; Basic of network-&gt; Kali Linux -Wireless Attacks-&gt; Pre-connection Attack* Advance-&gt; Discovering subdomains with Sublist3r-&gt; Ethical Hacking - SQL Injection-&gt; Cross-site scripting (XSS)Declaimer: This app is for educational purpose.icons by: flaticon.Our preview images were created using 'Previewed' at https://previewed.app",
+            "id": "com.vdx.ethicalhacking",
+            "image": "https://play-lh.googleusercontent.com/sisfZSjoG7hx2tNlHUxAC0SUuL3Y8vRSxZa5bvyI4bQl0v7_lCxeM5Ic-UZk20af0gE=s180-rw",
+            "rating": "4.2(111)",
+            "category": "Education",
+            "developer": "Innovatives"
+        },
+        {
+            "title": "Riddle Me 2020 - A Game of Riddles",
+            "price": "₹60.00",
+            "description": "<b>Riddle Me 2020 - A Game of Riddles</b><b>About</b>Riddle me 2020 is a game of riddles. It contains <b>5000 levels</b> and each level contains a unique and tricky riddle. These riddles can twist your brain while solving. It is a good word guessing game for teens and adults This game can be played at parties with friends or at home with siblings.<b>Simple, Unique and User Friendly Interface</b>Riddle me 2020 is very simple and an addictive game with neat and clean user interface. You can set light or dark theme.<b>Instant Fun</b>Playing this game is quick and instant fun.<b>Get Rewards</b>You can get coins by watching rewarded videos that you can use to get hints and solve riddles. These hints are:1) Remove letter (Letter that is not in the answer) 2) Reveal letter (Show random letter that included in the answer)3) Solve riddle (Solve riddle and show the answer)<b>View Solved Riddles</b>You can view all solved riddles by tapping \"Solved\" on home screen.<b>Completely Offline Riddles, No Internet is Required</b>Other than watching rewarded videos no internet is required. All 5000 riddles are completely offline.<b>Ask Friend</b>If you are stuck at any riddle, you can also get help from your friend by clicking \"Ask Friend\".<b>Game Features</b>- 5000 tricky riddles.💡😊- Light and dark mode.😍- Game Hints (Remove letter, Reveal letter, Solve Riddle).👍- View solved riddles.💝- Reset option. 👍- Ask from friend.😍- Watch rewarded videos and get coins.🎈- No Interstitial and banner ads.😊👍- Buy coins from coins store.😍- More riddles are coming soon.💡<b>Contact Us</b>You can give your suggestions @ eggies.co@gmail.com",
+            "id": "com.eggies.riddlemejustriddles",
+            "image": "https://play-lh.googleusercontent.com/txhpk1LHvxgUZUkcs73Vg3zGxMA89tv3b33VBQnT_oCPAv5fLYziZMh3YVE2bmRtMyI=s180-rw",
+            "rating": "3.7(60)",
+            "category": "Word",
+            "developer": "Eggies"
+        },
+        {
+            "title": "Tomb Hunter Pro",
+            "price": "₹85.00",
+            "description": "This is a fun shooting game where you will play a monster hunter and fight various horrible monsters and zombies in the ancient tomb. You can experience the different effects of a variety of magical firearms in the game. In addition, the diversity of pets and equipment is also a feature of the game.The game has both RPG and FPS elements. Players need defet monsters in the dungeon to gain experience and gold coins, collect treasures, buy pets and guns, continuously improve their power, and eventually become a powerful shooter. As the level grows, the  talent is also the key to winning the battle, You need to adjust it according to the current level.RPG system introduction:1. Equipments: There are clothe, boot, helmet, accessorie and other treasures in the game. Equipments are the core gameplay and the purpose of your challenge to the tomb. Equipments are divided into 5 qualities. They have different attributes and effects. It is not easy to obtain a rare stuff. You need to get it by shooting monsters. PS: Boss has a higher probability of dropping golden quality equipment.2. Gun: including pistol, machine gun and shotgun. Guns are the basic equipment of hunter. They need to consume the gold coins obtained by defeating monsters to buy them from merchant. Guns will randomly brush out different attributes, and it takes some luck to get a good gun. PS: Every time you pass a level, the gun shop will be automatically refreshed. The shotgun can shoot monsters in groups, which is the most powerful weapon in the game.3. Pet: including tiger, raptor, leopard, wolf, etc. Pets are good partners for hunter. Similar to guns, they need to consume gold coins to buy from merchant. PS: Pets will brush out random skills, you can choose according to your preferences. For novices, it is more suitable to carry pets with healing skills. Pets are good tanks. They attract the hatred caused by the shooter when shooting a monster, protect  your safe, and make you easier to shooting. Pets also provide healing, acceleration, and poisonous effects.4. Talent: including speed, gold coin, attack, poison, etc. Talents are auxiliary skills for hunter. You can adjust the distribution of talents according to the current situation. PS: It takes diamonds to reset talents. You can get it by opening the treasure chest in the dungeon. Gold talent, experience talent and poison talent are more suitable for the rapid growth of novices.Have a good time!",
+            "id": "com.imcrazy.th2",
+            "image": "https://play-lh.googleusercontent.com/apDMkQSJpG9KacMlYEY1CdvsISBvKB6eRf8JqY7aZxs8WH6BBfr8h_n9RrnqLL5XQQ=s180-rw",
+            "rating": "4.1(1,480)",
+            "category": "Adventure",
+            "developer": "IMCrazy"
+        },
+        {
+            "title": "[VIP] EffectParty : Offline Idle Merge Game",
+            "price": "₹30.00",
+            "description": "■  VIP version Effect1) +5 Effect Nest2) Remove Banner ads(except compensation video ads)Merge your effects and find a new one!What is the most powerful effect? Unlock 90 cool effects!Ready to train your effects?Made By Zabob Studio",
+            "id": "com.zabob.effectpartyvip",
+            "image": "https://play-lh.googleusercontent.com/p_bxrMo9MPLqzKgrVq9dIGkJuQ0jFHs4L7yktkd6IOpGeJpLKsReXbGp9V9bqMAYWpmY=s180-rw",
+            "rating": "3.9(14)",
+            "category": "Role Playing",
+            "developer": "Zabob Studio VIP"
+        },
+        {
+            "title": "Dungeon999",
+            "price": "₹60.00",
+            "description": "Explore the dungeon with 999 floors full of various slimes with a wandering warrior Jack, the Black Hair, and a magician Rose. Train your characters, discover new magic, and utilize numerous items to get to the 999th floor and find out the cause of slime's rebellion!  - Cheaper than a Mcdouble cheeseburger!. - Dungeon that seems to go on forever but eventually has an ending! - A unique storytelling of a One man army, full of old jokes likely to appear in 90s TV show! - Various casting with wonderful effects, which you can advance additionally! - Strategic fun of finding a proper attack method for each slime! - Ambiguity that promotes a sense of expectancy for the following sequel. - If you read it all the way down to this line, why don't you try it yourself?? - 10 Crystals are provided to all users from the beginning of the game!   * CAUTION If you delete the application, the data in it will be deleted as well.",
+            "id": "com.moontm.Dungeon999F",
+            "image": "https://play-lh.googleusercontent.com/Z5q7n6WyHbmxwqDE2RbtSNJ_Hh4SAiKrTOkGuyzkHY3TmIOWT3-6l7cmfGHXQzPog_yg=s180-rw",
+            "rating": "4.4(36,912)",
+            "category": "Role Playing",
+            "developer": "Moontm"
+        },
+        {
+            "title": "The Secret of Crimson Manor",
+            "price": "₹90.00",
+            "description": "Discover and solve the surprising secret behind the mysterious crimson manor.Explore the old mansion and its surroundings, solving puzzles and discovering its many intriguing secrets, in one of the best adventure games made for android. In the secret of crimson manor you will find: Amazing and beautiful graphics.Engaging and deep storyline.Fun and addictive gameplay. Features: +Classic and intuitive point and click gameplay.+Fun, amazing and clever puzzles.+Many different environments to discover &amp; explore.+An interactive original &amp; unique storyline.+Superb level, puzzle and game design.+High-resolution graphics optimized for retina display.+Multiple languages, AutoSave and much more ...+Also expect new game modes &amp; new features in the free updates. Plot: Strange weather events are happening in town lately, some people blame the eccentric Mr. Strange, an old scientist who performs strange experiments in his hill manor. He decides to invite you, the best reporter in town, with the idea of making public its latest &amp; wonderful discovery, which he describes it as: \"Something so wonderful that will change forever the way we see the world &amp; the very fate of humanity\" You accept the invitation, but on arriving at the mansion, you cannot find anyone, you sense that something strange is happening there, so you decide to investigate...  Buy It now If you're new to adventure games, download it now, you will not regret, it is more than likely that you become an instant fan of the genre, if you are already a fan you probably already bought it, you are not going to waste the opportunity to play one of the best exponents of this genre.  Take a look!",
+            "id": "com.mediacitygames.cmanor",
+            "image": "https://play-lh.googleusercontent.com/dTigt5XQPpdVpdvOgQq2S3gLwk77PxNUyUgAHgu949ewifIR3LGkUNLGStGcqc1FcC2r=s180-rw",
+            "rating": "4.3(89)",
+            "category": "Puzzle",
+            "developer": "MediaCity Games LLC"
+        },
+        {
+            "title": "Jungle Collapse 2 PRO",
+            "price": "₹150.00",
+            "description": "Jungle Collapse 2 is a new simple to play casual block collapsing puzzle game for all ages with 3 different game modes and lots of fun for the whole family!This is a premium ads-free version with no In-App purchases.Will you make it into TOP20 highscores?<b>How to play:</b>Move your finger over at least 3 blocks of the same kind horizontally, vertically or diagonally to remove them! Remember, longer chains you create, better score you get! Collect extra bonuses on your way and go for highscores!<b>Game modes:</b>* Classic - destroy the stated number of blocks to progress to the next level before the end of the time limit.* Puzzle - for every chain with at least 5/6 blocks you get the new blocks to play with, otherwise they will be removed. * Time Attack - you have 90 seconds to get the best score possible.<b>Features:</b>* An addicting puzzle game for all ages* 100% free full version + no In-App purchases* 3 game modes!* Submit and share your score with your friends* Great fun for all agesIf you find any bug, please let us know at littlebigplay@gmail.com, we will be very happy to fix it!",
+            "id": "air.com.littlebigplay.games.premium.junglecollapse2",
+            "image": "https://play-lh.googleusercontent.com/ful17lZ6z0q7I1GS9wGVViUlHsE3wDmPo1KyBrLs00Y402uVexmvmAAfyhZ56SXcJzU=s180-rw",
+            "rating": "3.8(108)",
+            "category": "Casual",
+            "developer": "LittleBigPlay - Word, Educational & Puzzle Games"
+        },
+        {
+            "title": "82 Animals Dot-to-Dot for Kids",
+            "price": "₹130.00",
+            "description": "Go on an adventure and play with Aquatic, Farm, Savannah and Jungle animals. Learn numbers and letters with this unique Connect the Dots Animal Encyclopedia. Master your alphabets and practice counting skills and be rewarded with animal sounds, pictures, interesting facts and videos. This educational fun game is really helpful for preschool children and toddlers and even those with autism – as it helps them with problem solving and motor skills and teaches them pronunciations.Themes:Sea - did you know the octopus has 8 legs, have you ever seen a squid swimming in the sea or heard a dolphin laugh, well now you will.Domesticated - you have probably played with a cat &amp; a dog, but we bet you don't know some fun facts about them, have you ever heard a camel growl or seen a ostrich?Grassland - Want to see a bee land on a flower, hear a wolf howl, learn common facts about the hippo, rhino, zebra and many more.Forest - the Lion king, scary tiger, funny monkey, cute panda and many more.Gameplay &amp; Features:- tap the dots or drag &amp; draw lines to connect sequential numbers (123) and upper (ABC) or lower (abc) case letters.- each dot pronounces the number or letter and so kids learn the alphabets and numbers (1 to 20) and also counting.- help features for smaller kids where the outline of the animal is shown, the next dot in sequence starts blinking after a 4 second gap and joining the wrong dot makes it say no with an animation.- to make it more fun you  can change the shape or colors of the dots as well.- Easy and Hard mode with less and more dots respectively and kids can also select reverse numbers and letters to test their skills.- theme specific ambient music and cute sounds in the entire game to make it more interesting for your young ones.- applause, cheer and balloons on successfully completing joining of dots.- animal comes to life and it plays the animal name and sounds audio.- select the image icon to see real animal pictures, the video icon to see the animal in motion and the parents can help explain the kids the unique facts of each animal which are presented with the images.- 82 hand drawn animals which looks cute but are detailed enough to recognize features.- 13 supported languages i.e. English, French, German, Italian, Spanish, Portuguese, Russian, Ukrainian, Polish, Dutch, Turkish, Arabic and Japanese.Privacy Disclosure: As parents ourselves, iAbuzz takes children's wellness and privacy very seriously. Our app:• Does not contain links to social networks• Does not contain advertising• Does not collect personal dataFeedback Please:If you have any feedback and suggestions on how we could further improve the design and interaction of our apps and games, please visit our website http://iabuzz.com/ or leave us a message at kids@iabuzz.com. We would be glad to hear from you as we are committed to update all of our apps and games on a regular basis with new features and also want to get some ideas for future app development.P.S. Don't forget to leave a review if you've enjoyed our game as much as we enjoyed making it!",
+            "id": "com.iabuzz.apk.ConnectTheDotsAll",
+            "image": "https://play-lh.googleusercontent.com/LBg4MVbKG9e8-uT8_PVK3AJdqyYYMW5ed1pI9YYPbQdtWxBzSDK_AaA_Xq7WQ3jiprBf=s180-rw",
+            "rating": "4.1(281)",
+            "category": "Educational",
+            "developer": "Abuzz"
+        },
+        {
+            "title": "Antonyms PRO",
+            "price": "₹140.00",
+            "description": "<b>Antonyms is a premium ad free version of educational puzzle game in which you can test your knowledge of English words and their opposite meanings in an entertaining and challenging way!</b>Antonyms games contains 5 different game mode that will sharpen your knowledge of English words and English vocabulary in a fun way!Go for highscores and become a star in your English lesson!<b>GAME MODES:</b>✓ True or False - there will be 2 words shown on the screen, decide if they are antonyms or not.✓ Single Choice - there will be shown 1 word and 4 options, decide what option is an antonym of the shown word.✓ Guessing - guess an antonym of the word shown on the screen.✓ Find Pairs - there will be 6 words shown on the screen, create pairs of Antonyms✓ Practice - play as long as you want without time limit or lives!<b>FEATURES</b>:* Educational word game for all ages* 5 game modes"True of False", "Single Choice", "Guessing", "Find Pairs" and "Practice"* Hundreds of English words and their antonyms included* Improve your English vocabulary, dictionary and learn English in entertaining way* Day and night mode* Local and global leaderboards included - submit and compare your points with other people from all around the world!* Stats - review your progress and words you played with* Share your score with your friends via Facebook, Google+, Twitter and other social networks. * Play online or offline - no need to be connected to internet - just if you want to submit your score* No ads, no In-App purchasesHave fun with our educational game Antonyms PRO and if you like it and want to see more free features, please support it by rating it and leaving some comment, thank you!If you find any bug or have any question, please let us know at littlebigplay@gmail.com.<b>SUPPORT LINKS:</b>Email: littlebigplay@gmail.comFacebook: https://www.facebook.com/littlebigplay",
+            "id": "air.com.littlebigplay.games.premium.antonymspro&hl=en",
+            "image": "https://play-lh.googleusercontent.com/r_enmOr6PWKgUnA6nMAKJkJzEhIfgZbvly4n59PrsXS1j05iKLP7OEYWc31JIJq-29wl=s180-rw",
+            "rating": "(16)",
+            "category": "Educational",
+            "developer": "LittleBigPlay - Word, Educational & Puzzle Games"
         }
     ]
 }
