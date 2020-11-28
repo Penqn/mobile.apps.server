@@ -4,7 +4,9 @@
 		"id": "me.penqn.magellanic",
 		"version": "1.0.0",
 		"update": {
-			"available": false
+			"date": "28-11-2020",
+			"force": true,
+			"url": "market://details?id=com.google.gms"
 		}
 	}
 }
