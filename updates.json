@@ -8,5 +8,15 @@
 			"force": false,
 			"url": "market://details?id=com.google.gms"
 		}
+	}.
+	"albosignata": {
+		"name": "Albosignata",
+		"id": "me.penqn.albosignata",
+		"version": "1.0.0",
+		"update": {
+			"date": "28-11-2020",
+			"force": false,
+			"url": "market://details?id=com.google.gms"
+		}
 	}
 }
