@@ -4,19 +4,19 @@
     "questions": {
         "en": [
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+                "question": "In which ocean is mariana trench located?",
+                "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
                 "answer": 0
             },
             {
-                "question": "What is the cap of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "What is national animal of Kenya?",
+                "options": ["Cheetah", "Tiger", "Lion", "Leopard"],
+                "answer": 2
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Kochi", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "In which year Apple Inc. was founded?",
+                "options": ["1975", "1976", "1978", "1965"],
+                "answer": 1
             },
             {
                 "question": "What is the capital of India",
@@ -56,19 +56,19 @@
         ],
         "ml": [
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+                "question": "മരിയാന ട്രെഞ്ച് ഏത് സമുദ്രത്തിലാണ് സ്ഥിതി ചെയ്യുന്നത്?",
+                "options": ["അറ്റ്ലാൻറ്റിക്", "ഇന്ത്യൻ", "പസിഫിക്", "ആർക്ടിക്"],
+                "answer": 2
+            },
+            {
+                "question": "കെനിയയുടെ ദേശീയ മൃഗം?",
+                "options": ["കടുവ", "സിംഹം", "ചീറ്റ", "പുള്ളിപ്പുലി"],
                 "answer": 0
             },
             {
-                "question": "What is the cap of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
-            },
-            {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Kochi", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "ആപ്പിൾ സ്ഥാപിക്കപ്പെട്ട വർഷം?",
+                "options": ["1975", "1976", "1978", "1965"],
+                "answer": 1
             },
             {
                 "question": "What is the capital of India",
