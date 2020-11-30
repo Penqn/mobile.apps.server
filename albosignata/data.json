@@ -1,0 +1,56 @@
+{
+    "season": 1,
+    "game": 1,
+    "questions": [
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the cap of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Kochi", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        },
+        {
+            "question": "What is the capital of India",
+            "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+            "answer": [0]
+        }
+    ]
+  }
