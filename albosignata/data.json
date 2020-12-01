@@ -19,39 +19,39 @@
                 "answer": 1
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
+                "question": "Which country has won the first fifa world cup?",
+                "options": ["Germany", "Argentina", "Brazil", "Uruguay"],
+                "answer": 3
+            },
+            {
+                "question": "When did world war 1 end?",
+                "options": ["1916", "1921", "1918", "1919"],
+                "answer": 2
+            },
+            {
+                "question": "Which chinese emperor had built the great wall?",
+                "options": ["Qin Wuwang", "Qin Zhaoxiangwang", "Qin Xiaogong", "Qin Shi Huangdi"],
+                "answer": 3
+            },
+            {
+                "question": "Who invented refrigerator?",
+                "options": ["Albert T. Marshall", "Albert Einstein", "Nikola Tesla", "Thomas Edison"],
                 "answer": 0
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "What is the capital of Austria?",
+                "options": ["Sydney", "Amsterdam", "Vienna", "Copenhagen"],
+                "answer": 2
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "Which country produces the most gold in the world",
+                "options": ["South Africa", "China", "India", "America"],
+                "answer": 1
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
-            },
-            {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
-            },
-            {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
-            },
-            {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "Who is the current CEO of Intel?",
+                "options": ["Lisa Su", "Gordon Moore", "Bob Swan", "Robert Noyce"],
+                "answer": 2
             }
         ],
         "ml": [
@@ -63,7 +63,7 @@
             {
                 "question": "കെനിയയുടെ ദേശീയ മൃഗം?",
                 "options": ["കടുവ", "സിംഹം", "ചീറ്റ", "പുള്ളിപ്പുലി"],
-                "answer": 0
+                "answer": 1
             },
             {
                 "question": "ആപ്പിൾ സ്ഥാപിക്കപ്പെട്ട വർഷം?",
@@ -71,39 +71,39 @@
                 "answer": 1
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "ആദ്യമായി ഫിഫ വേൾഡ് കപ്പ് നേടിയ രാജ്യം?",
+                "options": ["ജർമ്മനി", "അർജന്റീന", "ഉറുഗ്വേ", "ബ്രസീൽ"],
+                "answer": 2
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "ഒന്നാം ലോകമഹായുദ്ധം അവസാനിച്ച വർഷം?",
+                "options": ["1916", "1921", "1918", "1919"],
+                "answer": 2
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "ഏത് ചക്രവർത്തിയാണ് ചൈനീസ് വന്മതിൽ നിർമിച്ചത്?",
+                "options": ["Qin Wuwang", "Qin Zhaoxiangwang", "Qin Xiaogong", "Qin Shi Huangdi"],
+                "answer": 3
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "റെഫ്രിജറേറ്റർ കണ്ടുപിടിച്ച ശാസ്ത്രജ്ഞൻ?",
+                "options": ["ആൽബർട്ട് ഐൻസ്റ്റീൻ", "ആൽബർട്ട് ടി മാർഷൽ", "തോമസ് എഡിസൺ", "നിക്കോള ടെസ്ല"],
+                "answer": 1
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "ഓസ്ട്രിയയുടെ തലസ്ഥാനം?",
+                "options": ["കോപ്പൻഹേഗൻ", "സിഡ്നി", "ആംസ്റ്റർഡാം", "വിയന്ന"],
+                "answer": 3
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "ലോകത്ത് ഏറ്റവും കൂടുതൽ സ്വർണം ഖനനം ചെയ്യുന്ന രാജ്യം?",
+                "options": ["അമേരിക്ക", "ചൈന", "സൗത്ത് ആഫ്രിക്ക", "ഇന്ത്യ"],
+                "answer": 1
             },
             {
-                "question": "What is the capital of India",
-                "options": ["Delhi", "Mumbai", "Chennai", "Hyderabad"],
-                "answer": 0
+                "question": "ഇന്റൽ കോർപ്പറേഷന്റെ നിലവിലെ CEO?",
+                "options": ["ഗോർഡൻ മൂർ", "ലിസ സു", "റോബർട്ട് നോയ്‌സ്", "ബോബ് സ്വാൻ"],
+                "answer": 3
             }
         ]
     }
