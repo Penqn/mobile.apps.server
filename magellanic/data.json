@@ -1,6 +1,126 @@
 {
-    "updated": 1606643920384,
+    "updated": 1606901003636,
     "apps": [
+        {
+            "title": "Todo Task Reminder Pro + Widget",
+            "price": "₹260.00",
+            "description": "Todo Task Reminder functions: • Create (repeating) tasks with title, description, due date and image• Resizable, interactive widget for your home screen• Mark tasks directly on the widget• Be reminded• Backup function• Use shortcut buttons in the notifications• Share your tasks• Modern design• Themes and dark mode Simple. Easy. With no frills.With todo task list you will not miss any appointment anymore. It does not matter if it is a shopping list, birthday, meeting or just notes. You can easily create new tasks and todo task list will remind you at a specific time. Furthermore you can add an image, e. g. of your handwritten notes. You receive notifications where you candirectly mark the task as finished, not finished or you can reschedule your todo task list to remind you later. You can do thisall directly in the notification via the shortcut buttons without launching todo task list. To keep track of your tasks you can add an interactive, resizabletodo task list-widget to your home screen. In the widget you can directly mark tasks as finished, edit your tasks or create new ones.Every task can be shared with several apps. In addition, you have the possibility to switch between themes to change the look of your todo task list.Supported languages:• English• German• Dutch• Spanish• Portuguese• Italian• French• Russian• Ukranian• Polish• Turkish",
+            "id": "com.kewitschka.todoreminderpro",
+            "image": "https://play-lh.googleusercontent.com/6TtC_F-QN4vM8QkAVkR1OqT1KR2uCi3X7xr_xC9iRtOZK6LLfFT5z5XwkH6S4O23E7g=s180-rw",
+            "rating": "4.4(3,246)",
+            "category": "Productivity",
+            "developer": "Kewitschka"
+        },
+        {
+            "title": "Givon - Icon Pack",
+            "price": "₹45.00",
+            "description": "How to setting ?-&gt; Download launcher &amp; set it as your default home.-&gt; Apply Givon Icon pack to Launcher-&gt; Change  launcher settings as follows :Home screen:- Portrait gird : 5x4Drawer:- Portrait gird : 6x4- Drawer background transparency : 0-10%Dock:- Number of dock icons : 5Advanced:- Icon size 140%- Icon font : systemFEATURES- Full HD 192 x 192px- 1.350+ Flat Icons.- All Icons be vector designed- All Icons be redrawn carefully- Compatible with Multi Launcher- Icon Back and Icon Mask- No Advertising- Monthly updates- Capacity light, easy to use- Clean and cool, bright and colorful- Limited time sales- Icon request tool inside the app- Cloud based wallpaper section- Help and FAQ section- Material design theme dashboard- Support lot of launchersThanks and Please give me 5 stars. Get more free apps in the future.Please, if you have any issues with the app, send me an email before writing a negative review or refund. I would help you immediately quickly★★★★★ HOW TO USE ? ★★★★★- Download a supported application launcher (see the list at bottom)- Install the icon pack- Start application and apply. In the list choose your launcher.- If you do not see your application launcher in the list then apply it within your launcher★★★★★ Supported launchers ( Apply From Icon Pack Dashboard) ★★★★★Apex , ADW , Go ,  TSF , Holo , Nova , Holo for ICS , Lucid , Pro , KK , Hola , Solo , Smart , Action , M , N , Etc , Inspire , UI 5.0 , Lollipop , L , Dodol , AdwEx , Atom , Aviate , Themer , CM Theme Engine , Mini , Nemus , S , Next , Nine , Unicon , Epic , ABC , Evie , LG Home , Nougat , V , Zero , Arrow…and most others that have icon pack support.If you do not see your application launcher in the list then apply it within your launcher=&gt; You can also apply icon pack from the respective launcher's theme / icon settings This icon pack has been tested. It works with these launchers. However, it may also work with others too. In case you do not found an apply section in dashboard. You can apply icon pack from a theme setting.Notes• Google Now Launcher do not support any icon packs. • GO Launcher doesn't support Icon Masking and Icon Upon.• Missing an Icon? feel free to send me an icon request and I will try to update this pack with your requests.• FOR LG USERS: LG HOME With latest update LG HOME does not support icon pack on some devices.I am still working on it may be it will work in a upcoming release. So in a mean time you have to use a launcher on LG devices.Follow us and update app onGoogle+: https://plus.google.com/u/0/+RaymondRudo",
+            "id": "com.rainystudio.givoniconpack",
+            "image": "https://play-lh.googleusercontent.com/56l5gv8X0WiKuenR7mOgleF2PvJwhkubYW4NwAapxbFubejbXM3K_wSM0tg6TvV0GvKX=s180-rw",
+            "rating": "4.1(121)",
+            "category": "Personalization",
+            "developer": "A1 Design"
+        },
+        {
+            "title": "Screen Draw Screenshot Pro",
+            "price": "₹260.00",
+            "description": "With Screen Draw Screenshot you can draw on every screen of your smartphone and take screenshots and videos. Quick accessible, always and everywhere! Screen Draw Screenshot is perfect for presentations, video tutorials or screenshots to highlight texts or images on the screen. The Screen Draw Screenshot toolbox is individual placeable per drag and drop. Addtional you can rotate the draw toolbox horizontal or vertical that you can place it at the best position on your screen or you just hide it in the notification bar.Forget the inconvenient steps and key combinations to take and edit a screenshot. With Screen Draw Screenshot you can take screenshots and videos with just 1 click! Activate the draw mode, draw or mark something and click on the screenshot button. You can share your screenshot instantly!• Take screenshots and videos (Android Lollipop required)• Export screenshots as pdf• Crop screenshots• Draw everywhere• Add text• Stroke color and width selectable• Hide-mode• Always accessible• Individual placeable per drag and drop (horizontal and vertical)• Undo/delete drawing function• Accessible with one click• Add screen draw icon to quick settings (Android 7 required)• Autostart on boot of device• Delete status bar from screenshots",
+            "id": "com.kewitschka.screendraw",
+            "image": "https://play-lh.googleusercontent.com/pMrn2sGVXfarZnArB0Nm0Ow7GqPdlFBeUlUzPXKddgFXw6kTYLNf12kMwMObDjR8O0E=s180-rw",
+            "rating": "4.1(2,884)",
+            "category": "Tools",
+            "developer": "Kewitschka"
+        },
+        {
+            "title": "Screenshot Pro 2",
+            "price": "₹130.00",
+            "description": "Info: The microphone permission is needed to be able to take videos with sound.The times are over, where you had to trigger complicated key combinations just to take a screenshot or a screen video. With Screenshot Pro you can take screenshots and screen videos with just 1 click, share it with any app or crop it. Screenshot Pro is hided to the notification bar, once it is launched. That means it is always and everywhere accessible, no matter on which screens you are. You can also add a floating button to have it accessible even more quickly. By clicking on the button or the notification you can take screenshots or screen videos instantly. All screenshots and videos are stored in the gallery. That's all! It is as easy as that!• Screenshots and screen videos with just one click• Floating icon• Crop screenshots• Share screenshots• Always and everywhere accessible• Shortcut in quick settings (for Android 7.0 and larger)• Autostart after boot of device• Delete status bar from screenshots• Choose default action after screenshot taken",
+            "id": "com.kewitschka.screenshotpro2",
+            "image": "https://play-lh.googleusercontent.com/hJ3j55Qbuw0WVFczAF_8Lbf5G9cR1auNyUoH4WeEMTLEnkSjuUDbJ6PWMAjb5Ifx4vA=s180-rw",
+            "rating": "3.6(3,366)",
+            "category": "Tools",
+            "developer": "Kewitschka"
+        },
+        {
+            "title": "Darkonis - Icon Pack",
+            "price": "₹120.00",
+            "description": "Darkonis: A dark set of high quality icons.What's included:★ 3.400 + HD icons★ 40+ matching HD cloud wallpapers★ Launchers support: Action, Adw, AdwEX, Apex, Atom, Aviate, GO, Next,Nova, Smart, Solo...★ Icon masking for un-themed icons★ Dynamic calendar (For Nova Launcher)★ Alternative icons to choose★ Updates.Thank you for supporting me!",
+            "id": "com.darkonis.iconpack",
+            "image": "https://play-lh.googleusercontent.com/WtR5a1vDUdpLi29jQEvdYO071Or32kNy56g-w7Er8DxYraQV43KyLns1dBdbS_YX5QI=s180-rw",
+            "rating": "4.3(174)",
+            "category": "Personalization",
+            "developer": "PhunktasticDesigns"
+        },
+        {
+            "title": "Pitch Pipe Wear",
+            "price": "₹90.00",
+            "description": "Pitch Pipe Wear is a virtual pitch pipe for Android Wear devices. This app provides a convenient way of playing any note in the chromatic scale using a familiar circular design. Use it to tune your instrument, find your starting pitch before singing, or for ear training.Note: Your device must have a way of playing audio to use this app. Only devices with a speaker or Bluetooth headphones are supported.",
+            "id": "com.stepheneisenhauer.pitchpipewear",
+            "image": "https://play-lh.googleusercontent.com/936PTrV2khIlZL-WBhDCgVOGcMqMYlCY4J4iAP41Fp8ciOrs65Ff5C-zZVt5rvctjQ=s180-rw",
+            "rating": "5.0(6)",
+            "category": "Music & Audio",
+            "developer": "Stephen Eisenhauer"
+        },
+        {
+            "title": "Spelling Book PRO",
+            "price": "₹150.00",
+            "description": "Welcome to our newest educational English spelling game Spelling Book PRO!With Spelling Book you will test and practice your English spelling skills in an entertaining and challenging way! Hundreds of most misspelled English words included. 2 game modes Challenge and Practice. Challenge people from all around the world!Educational fun for all ages!Learn new words and vocabulary in an entertaining way and become a new spelling star in your English lesson!How to play: There will be 4 words shown on the screen, tap on all the words that are spelled correctly! Watch out, you can make max 5 mistakes, otherwise game ends! Submit your score to see who is the best! Don't like challenges? Then play a practice mode.*** Features **** Educational English spelling game for all ages* Hundreds of most misspelled English words included* Local and global leaderboards included - compare your score with other people from all around the world* 2 Game modes - Challenge and Practice* More games you play, better overall score you getWe hope that our educational game Spelling Book PRO sharpens your spelling skills in an entertaining and challenging way! If you like the game and want to support it, please just rate it, thank you!If you find any bug or have any question, please let us know at littlebigplay@gmail.com.",
+            "id": "air.com.littlebigplay.games.premium.spellingbook",
+            "image": "https://play-lh.googleusercontent.com/jWUOnvU-HqIL1nsbZu1rp8zDyTeAxnn_BrYFHKCc3li5a3Roz76qcap0bhP1EUu6ZHE=s180-rw",
+            "rating": "4.2(107)",
+            "category": "Word",
+            "developer": "LittleBigPlay - Word, Educational & Puzzle Games"
+        },
+        {
+            "title": "Shapy - Adaptive Icon Pack",
+            "price": "₹80.00",
+            "description": "<b><u>THIS IS WHAT YOU WILL GET</u></b>- Regular updates &amp; Long term support- Free / Premium icon requests. The limit of free requests is reset after <b>each</b> update.- <b>1200</b>+ icons - this is an adaptive number 😋- <b>1800</b>+ app activities!- 29 Clock widgets- About 200 wallpapers- Dynamic clock icon &amp; Dynamic calendar- Tweaked dashboard: icon shape preview, auto light/dark theme, bigger icon preview, custom font/icons,...<u><b>Get in touch:</b></u>• Twitter: https://twitter.com/OSheden• Telegram: https://t.me/OSheden• Email: osheden (@) gmail.com<b><u>THANK YOU FOR USING OUR ICON PACKS AND SUPPORTING OUR WORK</u></b><b><u>NEED HELP?</u></b>If you need help PLEASE contact us by email, Twitter or Telegram.Note: do <b>NOT</b> install on your external storage - you may have incompatibility issues especially with Clock widgets",
+            "id": "com.osheden.shapy",
+            "image": "https://play-lh.googleusercontent.com/1H6J_Bg0B88qgXEuJqj833HI9mMXzxr_39ecJuSAgeBD_DiaXDTI4dKF34rlxndzZ8c=s180-rw",
+            "rating": "4.7(13)",
+            "category": "Personalization",
+            "developer": "OSheden"
+        },
+        {
+            "title": "Cyber Fighters: League of Cyberpunk Stickman 2077",
+            "price": "₹20.00",
+            "description": "A BRAND NEW EPIC CYBERPUNK FANTASY ACTION GAME🏆 Premium Feature: 2 unique costumes for Brandon (swordmaster class) and Hachi (archer class).Hurry up and get stunning costumes for free to equip your unique cyber fighters. It's time for you to become the Legend Cyber Fighter!<b>Cyber Fighters </b> is a free-to-play of the new shadow stickman style game in cyberpunk theme, a great combination of action game, role-playing (RPG), and player versus player. A new experience for players to enjoy the classic fantasy action fighting game. You will be amazed that Cyber Fighters is an offline cyberpunk game, which doesn't need the internet to dive in a fantasy world &amp; fighting the epic shadow battle. Fight in your own way because you can select among 5 unique cyber fighters with diversity skill &amp; battle style. You can choose Cyber Officer Swordsman, The Punisher of God Thunder, The Queen Bee Archer Assassins, Cyborg Senseless Killer, and The Deathly Shadow Panther.Ready to plunge into the cyberpunk world with infinite hack and slash battles &amp; countless fast-paced action? Then welcome to Detroit city, where it all begins!In 2077, World War 3 ended, the world map was redrawn. North America was divided into 5 regions intersecting in the city of Detroit. After a series of failed agreements between states, the city fell into anarchy.More than 750.000 of civilians were forgotten by the rest of the world. Over time, in the forgotten city, formed criminal forces. They rebelled and fought with each other to compete for their influence over the city.Everything in Detroit is now operating like an amip. If you can not be a part of it, then you will soon become its prey. Will you be powerful enough to change that, cyber fighters?For fans of classic Action RPG and Stickman Fighting Games around the world, you will not be disappointed for sure once join this game - a massive cyberpunk world full of gang wars, cyber weapons, hack n slash combats, survival battles, and many more. Let's start the adventure right now, fighters! It's time for you to become the Greatest Cyber Fighter Legends!**********THE LEGENDS STICKMAN CYBER FIGHTER Cyber Fighter offers five different heroes with a diversity of combat styles for players to choose:  Slashing monster by a Thermal Blade, Thunder Hammer &amp; Energy Spear or shooting their way over bosses by a Mighty Arrow or Power Cannon.BRING JUSTICE FOR THE DARKNESS CYBERPUNK CITYEach chapter goes through, you'll experience an epic battle with the darkness shadow force: zombie, ninja, yakuza, cyber monster, gangster, assassins, cyber dark angel or the gigantic boss.COMRADE-IN-ARMS SYSTEMBesides the unique combat style, each hero will have their own comrade-in-arms to summon and it has their own combat style too. Fighting alongside your soul knight robot through the deathly shadow battle. STUNNING DESIGN, EFFECT &amp; GRAPHICSThe Cyberpunk world in Cyber Fighters is full of the amazing design concept from background to character, &amp; enemy design. You will be amazed by the fascinating graphic &amp; effect skill in Cyber Fighters. <b>Game Features:</b> - Offline Mode: Experience the game with no internet connection required! - Enjoy incredible graphics of the Cyberpunk world!- Fight against other Player with online mode (PVP)- Dive into this Action RPG on your own fighting style!- Learn skills, face against many cruel enemies, evil cyber monster, the cyber mafia, cyber shadow hunter assassins, and mighty bosses. - Collect lots of cyber weapons in the huge weapon system!- Customize your hero with the costume &amp; drones system.- Challenge yourself to survive in challenge mode with endless waves of cyber hunter enemies.- Many more interesting features that you will find out in-game!.<b>Follow us at: </b>https://www.facebook.com/OfficialCyberFighters/Feel free to send us feedback via emailezgcyberfighters@gmail.com",
+            "id": "com.zitga.cyberfighters.shadow.hunter.legends",
+            "image": "https://play-lh.googleusercontent.com/qOU2XdcZokFZoHaKTqTPE_XKhBdgaVerXMMb35Sd4XrWUcqJYgisnkNwzkqEn2mO1Ac=s180-rw",
+            "rating": "4.2(1,161)",
+            "category": "Action",
+            "developer": "ZITGA"
+        },
+        {
+            "title": "Galaxy Attack: Alien Shooter (Premium)",
+            "price": "₹30.00",
+            "description": "Are you stoked about what comes with this Premium? In this version of Galaxy Attack: Alien Shooter. Earth's last hope is in your hands, take control of the lone spaceship and protect Earth from alien swarms. Your goal will be quite challenging as you will have to save the Universe from its evil enemies. In this space shooting game, you will be facing an increasingly large number of enemies in hazardous environments. As the game progresses, you will earn the right to upgrade your spacecraft to unleash its full lethal capacity.HOW TO PLAY:* Touch screen to move and kill all enemies.* Collect items to upgrade or change your weapons.FEATURES:* Multiplayer mode: 1 vs 1, 1 vs 3* High quality images optimized for tablets and large screens.* Ability to use active skills during the space battles.* The game is packed with 160+ levels on various difficulties.* Beautiful levels with immersive missions to complete. * Multiple extreme boss battles. * Upgrade your guns and lasers.Enjoy classic space combat - powered up. Download Galaxy Attack: Alien Shooter now!Follow us on Facebook:https://www.facebook.com/GalaxyAttackJoin Group with ushttps://www.facebook.com/groups/GalaxyAttackAlienShooter",
+            "id": "com.alien.shooter.galaxy.attack.premium",
+            "image": "https://play-lh.googleusercontent.com/SrXelxuBrHSwtbYdIF4A5JzXDn_H-so9ZoO0GUBUBCwPTucPKcnqwiycv8KgTeIfTZ0=s180-rw",
+            "rating": "4.1(8,112)",
+            "category": "Arcade",
+            "developer": "ONESOFT"
+        },
+        {
+            "title": "The Hearts PRO",
+            "price": "₹170.00",
+            "description": "<b>Challenge yourself and other people from all around the world in our addicting puzzle and brain game with a twist The Hearts!</b>Do you like puzzle games in which you must connect same type of symbols? Do you like games in which you must think fast? Do you like brain exercises? Then check out our original puzzle logic game The Hearts!The Hearts PRO is a full version with no ads, no In-App purchases and it can be played without an internet connection offline.<b>FEATURES:</b>✓ 6  game modes to choose from - Challenge, Quick, 4 minutes, 20 moves, Hard and Relax.✓ No ads, no In-app purchases, no subscriptions✓ Color blindness friendly ✓ Submit and share your points and review points of other people from all around the world + track your personal bests✓ Some modes require fast thinking and other logical thinking✓ Puzzle and brain game for all ages✓ Play offline - no internet is needed✓ Simple to play with minimalist design✓ More games you play, better overall score you get<b>HOW TO PLAY:</b>✓ Slide your finger over at least 2 symbols of the same type in any direction to connect them, release your finger to remove the created chain and to get the new symbols to play with. Remember, longer chains you create, better score you get. In a challenge mode you must connect at least 5 hearts/symbols to get the new hearts, otherwise they will be removed. In a hard mode 6 hearts/symbols.Have a nice time playing The Hearts and if you like the game please rate it. It helps us a lot in adding new features. Thank you!<b>SUPPORT:</b>✓ Email: littlebigplay@gmail.com✓",
+            "id": "air.com.littlebigplay.games.premium.thehearts",
+            "image": "https://play-lh.googleusercontent.com/Tp5Hm4i9SEjMQ9AnLX9oktOT-qnKj9gArqM8xTRggm0ejIAn-2kHDHifC338mR0eyg=s180-rw",
+            "rating": "3.9(75)",
+            "category": "Casual",
+            "developer": "LittleBigPlay - Word, Educational & Puzzle Games"
+        },
+        {
+            "title": "Star Balloon",
+            "price": "₹24.00",
+            "description": "Enjoy a breeze of fresh air in the match-3 genre. <b>Keep your brain in good shape</b> with this thrilling logic game with delightful balloons.Star Balloon is a unique match-3 game with thrilling mechanics. You have to think fast to pop enough balloons to clear a path from bottom to top. And then you have to be agile to get the star balloon through that path to advance to the next level. The end goal is to get the star balloon to the stratosphere, where it will bring free Internet to the world.Sweet balloons keep coming up, and you can control the wind to swing them in the right direction by tapping two fans at the bottom of your screen. The controls have been meticulously designed for mobile devices with touch screens.<b>Features</b>★ Have a refreshing entertainment experience. Star Balloon has unique mechanics founded on familiar logic rules.★ Enjoy a delightful mobile-first gameplay experience. Star Balloon has been meticulously designed for touchscreen devices.★ Control what you pay. Star Balloon has no in-app purchases, no ads, no currencies, just fun. Pay once and play as much as you want.★ Play with the whole family. No violence, or strong language, just sweet and colorful balloons.★ Play anywhere, even offline.★ Enjoy every single level. Star Balloon includes over 60 amazing levels carefully designed manually to balance fun and difficulty.★ Discover 5 special balloons and unique obstacles as you progress through harder levels.★ Train your fast thinking brain. Star Balloon has thrilling action and you have to apply logic very quickly.★ Replay as much as you want. Each time you play a level you get a different experience.★ Progress smoothly through the levels. The difficulty increases as you learn, even when new mechanics are introduced.★ Enjoy an immersive gameplay with great music matching the pace of the game.★ Focus on having fun with beautiful, minimalist art and a super clean interface.If you experience any issue while playing Star Balloon, please contact our customer support at support@arumastudios.com and provide as much information as possible about your problem. We will do our best to help.",
+            "id": "com.arumastudios.starballoon",
+            "image": "https://play-lh.googleusercontent.com/1T1vt8v4yh4r3o8Dz_LjfF44Q-DtFgFBKJibrF-iWUDPkShp6wp_xlplEUkV9G5Uhv8=s180-rw",
+            "rating": "3.8(64)",
+            "category": "Puzzle",
+            "developer": "Aruma Studios"
+        },
         {
             "title": "Defender Battle: Hero Kingdom Wars - Strategy Game",
             "price": "₹160.00",
