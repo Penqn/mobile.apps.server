@@ -1,12 +1,12 @@
 {
 	"magellanic": {
 		"name": "Magellanic",
-		"id": "me.penqn.magellanic",
+		"id": "in.penqn.magellanic",
 		"version": "1.0.1",
 		"update": {
 			"date": "28-11-2020",
 			"force": false,
-			"url": "market://details?id=com.google.gms"
+			"url": "market://details?id=in.penqn.magellanic"
 		}
 	}.
 	"albosignata": {
