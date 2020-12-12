@@ -2,10 +2,10 @@
 	"magellanic": {
 		"name": "Magellanic",
 		"id": "in.penqn.magellanic",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"update": {
 			"date": "28-11-2020",
-			"force": false,
+			"force": true,
 			"url": "market://details?id=in.penqn.magellanic"
 		}
 	},
