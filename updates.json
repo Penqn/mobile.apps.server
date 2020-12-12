@@ -2,7 +2,7 @@
 	"magellanic": {
 		"name": "Magellanic",
 		"id": "in.penqn.magellanic",
-		"version": "1.0.3",
+		"version": "1.0.2",
 		"update": {
 			"date": "28-11-2020",
 			"force": true,
