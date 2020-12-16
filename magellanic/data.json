@@ -1,5 +1,5 @@
 {
-    "updated": 1608048514971,
+    "updated": 1608125988199,
     "apps": [
         {
             "title": "Fake GPS Location PRO",
@@ -23,6 +23,102 @@
             "raters": 39,
             "category": "Educational",
             "developer": "Sergey Malugin",
+            "expired": false
+        },
+        {
+            "title": "Red",
+            "price": 50,
+            "description": "Premium device need a premium quality icon pack<br>Red icon pack build for premium  <br><br>★★ FEATURES<br>★ 2000+ icons and grow<br>★ XXHDPI icons 192x192 pixel<br>★Fully based on vector graphic processing<br>★HD+ cloud-based wallpapers<br>★Many alternate icons to choose from <br>★Compatible with many Android Launchers<br>★Regular update / Long term support<br>★Quick search and preview icons<br>★Smart and Premium Icon Request<br>★Muzei live wallpaper support<br>★Dynamic calendar support e.g Google, pre-installed calendar etc<br>★Shorted in various categories <br>★Image Picker, Attach Icon from Dashboard App as an Image to Email, Hangouts, etc or Even Use it to Create Zooper Widget<br>★And many more<br><br>★★COMPATIBLE WITH<br>★Apply via Dashboard : <br>Abc Launcher, Action Launcher, Adw Launcher, Apex Launcher, Atom Launcher, Aviate Launcher, Cm Launcher, Evie Launcher, Go Launcher, Holo HD Launcher, Holo Launcher, Lg Home Launcher, Lucid Launcher, M launcher Launcher, Mini Launcher, Next Launcher, Nougat Launcher, Nova Launcher, Smart Launcher, Solo Launcher, V Launcher, ZenUI Launcher, Zero Launcher<br><br>★Apply via launcher / theme setting : <br>Xperia Home, EverythingMe, Themer, Hola, Arrow Launcher, Trebuchet, Unicon, Cobo Launcher, Line Launcher, Mesh Launcher, Z Launcher, ASAP Launcher, Peek Launcher, and maybe more that have icon pack support<br><br>★ANY UNTHEMED ICONS?<br>Simply use regular / premium Icon Request feature inside the app to request missed icons and leave the rest to me<br><br>★IMPORTANT<br>** This is not standalone app. You need a compatible Android launcher to use this icon pack<br>** Google Now Launcher, Pixel Launcher, or any launcher that came factory installed (except Lg , Xperia Home , Asus ZenUI Launcher and One Plus Launcher) is NOT support icon packs<br>** LG Home may working unstable for some device<br>** LG Home with Android Nougat no longer support 3rd party icon pack<br>** GO Launcher doesn't support Icon Masking, so go to preferences &gt; Icons &gt; Mark OFF \"show icon base\". <br>** Next Launcher supports icon upon but only system apps but manual apply will change the rest<br>** Before leaving a review that it does not work, kindly install one of the compatible launchers<br><br>★Do rate and review the app. It means a lot to me. Thank you<br><br>★FOLLOW ME<br>★Twitter<br>https://goo.gl/w8bdGs",
+            "id": "com.atanusanyal.red",
+            "image": "https://play-lh.googleusercontent.com/QlrXVIHTrEe0wJaK8g6Mu9DgUsRf2xT-tAoP9y0oKYUQtGhr8brgWPL6eshNb6M7gw=s180-rw",
+            "rating": 3.9,
+            "raters": 62,
+            "category": "Personalization",
+            "developer": "Atanu Sanyal",
+            "expired": false
+        },
+        {
+            "title": "Learn Korean Language: Word Quiz Pro for Beginner",
+            "price": 99,
+            "description": "Those who mainly use English and want to learn Korean can study as a Korean word master.<br>The first thing to learn is the Korean alphabet. You can learn Korean characters and pronunciations entirely by looking at sheets with consonants and vowels of Hangeul.<br>The next step is to solve the Korean word quiz.<br>This makes it easy to learn the exact meaning of many Korean words that are difficult to memorize, consisting of 1,100 words for beginners, 3,600 words for intermediate levels, and 2,000 words for advanced people.<br>Many of these contents help you achieve sustainable growth from beginner to advanced.<br><br>After solving the quiz, you can do additional repetitive learning through the wrong answer review.<br>You can also practice basic Korean conversation through quizzes, so you may not be embarrassed when you meet a Korean person while traveling.<br>Voice (TTS) is also supported for all of these words and conversational sentences so that you can learn the pronunciation of words correctly.<br><br>We hope that you will be able to speak Korean fluently soon.<br>If you have any questions or suggestions, please contact crispysoftcompany@gmail.com.<br><br>Thank you.",
+            "id": "com.crispysoft.wordmasterpro",
+            "image": "https://play-lh.googleusercontent.com/5RQfIbTtkB2DCK6Zlagv6-kmLxMys4kqKJ4Fn8twLuUCRMjgE14WBYCiTkmaxuOGG_0=s180-rw",
+            "rating": 0,
+            "raters": 0,
+            "category": "Education",
+            "developer": "CRISPY SOFT",
+            "expired": false
+        },
+        {
+            "title": "Showtime VR Controller - Lite",
+            "price": 2300,
+            "description": "Showtime VR enables remote management of many VR headsets. The solution includes a 360 player which is installed on smartphones and is able to play 360 degrees videos (both 2D and 3D) and 360 graphics and photos (panoramas) up to 8192x4096px as a slideshow.<br><br>This is a controller application.<br><br>The controller application is installed on a tablet. The content can be played synchronically on all headsets or asynchronically. Showtime VR is designed for business professional presentations, marketing campaigns activations, movie shows - VR theatre solution, kiosk solutions – little involvement of staff, fair presentations, events - everywhere where you need to have full control over the VR headsets and the content presented on them, where you have to manage remotely the VR headsets and would like to present the VR content in synchronic way.",
+            "id": "eu.showtimevr.tableaucontroller",
+            "image": "https://play-lh.googleusercontent.com/rRKMbI9RWDGH_vOQrJfCEhUgZRnG49Rko55-0JozWU4BmATI2vpzNClkm8WP30RUW7Q=s180-rw",
+            "rating": 0,
+            "raters": 0,
+            "category": "Video Players & Editors",
+            "developer": "Showtime VR",
+            "expired": false
+        },
+        {
+            "title": "Dead Bunker 2",
+            "price": 15,
+            "description": "In this game you are going to be a mercenary who does every work he sees! To risk your life - this is what your job is, as long as they pay for that well!",
+            "id": "com.egproject.deadbunker2",
+            "image": "https://play-lh.googleusercontent.com/hkW8Qh18mhMffJeaT-t3zlurb3hl8QjZU26zuUqL-5k36xln522-4O1QIUiedyd4laE=s180-rw",
+            "rating": 3.4,
+            "raters": 618,
+            "category": "Action",
+            "developer": "EGProject",
+            "expired": false
+        },
+        {
+            "title": "WEATHER NOW - forecast radar & widgets ad free",
+            "price": 620,
+            "description": "Amazingly beautiful 3D images of our Earth planet draws your attention for so long that you may forget that the application has other useful features that allows you easy access to precise, global weather information.<br><br>App main features:<br>• Easily select different cities using the city carousel with national flags <br>• Chic 3D “home screen” with high-quality real-time image of the earth, atmosphere, the stars and the sun <br>• 15-day forecast chart with detailed daily weather conditions, independent day and night temperature charts<br>• 48-hour hourly forecast with detailed information<br>• Database of over 100 000 cities with weather information, quick look-up and automatic detection of location<br>• Current temperature and weather conditions image at Notifications bar<br>• Weather Widgets with short-term and long-term forecast, different sizes and customize options<br>• Weather radar provided by Rain Viewer, NOAA radar information included.<br><br>The main features of Weather Now app are the “home screen” and the forecast page.<br>On the “home screen”, you can get information on the selected location such as local time and current weather with detailed weather conditions, and, of course, an incredibly beautiful three-dimensional image of the Earth with realistic-looking atmosphere, the sun and the stars.<br>You can manually turn it, increase and decrease its size, run the slow spinning animation or stop it. Installed in a cradle or dock station, the application can run as a screensaver, attracting your friends and fellows. <br><br>About weather data and forecast<br>The weather forecast is provided by CustomWeather and Weatherbit companies.<br>CustomWeather is a leader in technology and meteorological innovation, providing local weather information to companies and application developers around the world.<br>The current weather data is gathered from thousands of professionally installed and maintained weather stations installed mostly at airports. <br>Weather Now only shows current weather from stations that have reported local weather conditions within the past hour. Current weather data is refreshed every 30 minutes; that is twice as frequent as most other weather providers can offer. Unique 48-hour forecasts from over 100,000 locations around the world provide a level of coverage and detail that simply cannot be found elsewhere.<br><br>Current weather information includes:<br>• Weather description<br>• Air temperature<br>• Wind direction and force<br>• Humidity<br>• Dew point<br>• Visibility<br>• Probability of precipitation<br>• Comfort temperature with reference to current weather conditions.<br>• UV index / Ultraviolet index<br>• Ozone layer index ( Weather bit provider only )<br>• Space weather - geomagnetic storm info<br>• Air quality<br><br>Detailed weather forecast information includes:<br>• Weather description<br>• Day and night air temperature<br>• Wind direction and force<br>• Humidity<br>• Pressure<br>• UV index / Ultraviolet index<br>• Ozone layer index ( Weather bit provider only )<br>• Space weather - geomagnetic storm info<br>• Probability of precipitation<br>• Comfort index with reference to current weather conditions<br>• Sunrise and sunset time, day length<br>• Air quality<br><br>Application support:<br>If you have problem with Weather Now app, please contact us via email: android@weathernow.app",
+            "id": "com.weathernowapp.paid",
+            "image": "https://play-lh.googleusercontent.com/AJibQddHYCXHm5nv3L7pL4CACkLTg9zKBpYbnyaWqEwSQF_n7sBFL6nUltjho5W9_HY=s180-rw",
+            "rating": 4.5,
+            "raters": 5065,
+            "category": "Weather",
+            "developer": "WEATHER NOW",
+            "expired": false
+        },
+        {
+            "title": "Ping Master X: Set Best DNS For Gaming [Pro]",
+            "price": 20,
+            "description": "The only Ping tool that truly gives lowest ping for your games. Experience crazy smooth gaming without lag!<br><br>Ping Master X will unleash your phone's true potential and bring your game play experience to the next level with option to measure Ping rate in realtime!<br><br>How it works?<br><br>Its very simple, We will find the fastest DNS Server in your area and will set it. Thus you'll get the best ping for your device. Boost your device's ping with just one touch. Optimize your device automatically for better gaming and max performance!<br><br><a href=\"https://www.google.com/url?q=https%3A%2F%2Ftaimienphi.vn%2Fdownload-ping-master-x-91475&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGBL7x8JQ-bETU5rlMzfeOa4ipouA\">See Ping Master reviewed by Taimienphi</a><br><br><b>Features</b><br>► Boost ping with just one click!<br>► Select fastest DNS Servers based on any region. <br>► Realtime Ping Meter.<br>► <b>Automatic Ping Booster</b>: Boost game ping automatically when launched.<br>► Home screen boost widget: Quickly boost from clicking home screen booster widget without launching app.<br>► Add games or apps of your choice to boost.<br>► No Ads<br><br>Permissions Explained:<br>• LOCATION : To find best DNS servers in your region.<br><br>What you are waiting for? Install it now for a better gaming experience!",
+            "id": "com.anutoapps.pingmaster",
+            "image": "https://play-lh.googleusercontent.com/8qKwbD3zlAvEBUoXANa4Vsb64b3_71q2kq362esFXNfPa6TORt8z7mu0IoQiuHN4QFDo=s180-rw",
+            "rating": 4.2,
+            "raters": 256,
+            "category": "Productivity",
+            "developer": "AntoDev",
+            "expired": false
+        },
+        {
+            "title": "Rainy Daze",
+            "price": 170,
+            "description": "Add power and emotion of a rainy day to your photos<br>Rainy Daze puts the power and emotion of rain in photography. Envelop your photos in a soft mist, romantic glow or a timeless quality to create heighten drama, invoke a forlorn mood or to symbolize emotional relief and happiness.<br>Included are three stunning rain styles along with an advanced tonal technique which creates a rainy day feel. Start by choosing a one-touch preset, and then customize the scene from a heavy rain shower to a light drizzly rain. Use a library of clouds to add mood and meaning, to set the perfect backdrop to your rainy day scene.<br><br>Rain Styles<br>Rain Showers—dramatically darkens the scene to look like a stormy overcast day, or lighten up the colors for a soft misty one with light rainfall<br><br>Romantic Rain—combines a soft romantic effect with clouds and rain<br><br>Vintage Rain—adds tone, texture and old borders to clouds and rain scenes<br><br>Includes<br>Three rain styles<br>Control over rain color, length, thickness and angle<br>Dramatic darkening scene effect<br>Romantic &amp; Vintage effect<br>Adjustable vignette<br>29 Aged &amp; distressed textures<br>17 Library of cloud backdrops<br>72 One-touch presets",
+            "id": "com.jixipix.rainydaze",
+            "image": "https://play-lh.googleusercontent.com/6UN1xFcugWdebZ9cEYV2Zyl1S2E6KVyyIY0xgVq_DcGDdvu-Y3VslXcTDMlFJUh74USO=s180-rw",
+            "rating": 4.5,
+            "raters": 62,
+            "category": "Photography",
+            "developer": "JixiPix Software",
+            "expired": false
+        },
+        {
+            "title": "Words Everywhere PRO",
+            "price": 170,
+            "description": "<b>How many words will you find in our original word search game Words Everywhere?Choose 1 of 3 game modes and try to make it into TOP20 highscores!</b><br><br>Our game Words Everywhere contains 3 different game modes to choose from and over 450 000 English words!<br><br>Words Everywhere is a must game for all the fans of word search games!<br><br>In Words Everywhere you don't have any list of words that you must find, simply try to find as many hidden words as you can! Watch out, all the letters stay on the screen, so try to look in all possible directions and their combinations to find all the possible words!<br><br>Words Everywhere PRO is a full version with no ads, no In-App purchases and no subscriptions!<br><br><b>FEATURES:</b><br><br>✓ Addicting word search game for all ages<br>✓ No ads + no In-App purchases + no subscriptions<br>✓ Words Everywhere can be played offline<br>✓ 3 GAME MODES - Quick, Challenge, Relax<br>✓ HUGE WORD BANK - over 450 000 words included<br>✓ CUSTOMIZATION - choose a background color, size of the letters and transparency of the lines<br>✓ CHALLENGE - Submit and share your points and challenge people from all around the world<br>✓ Simple clean design + the game can be played on old devices<br>✓ Each game is unique<br><br><b>HOW TO PLAY:</b><br><br>✓ There will be a board of letters shown on the screen. Move your finger over the letters and create words with 3+ letters each. You can move in any direction and combine the directions. In case that the word exists the game will automatically show WORD POINTS in the top right corner of the screen, release your finger to submit your word! Create words with 5, 6, 7, 8+ letters for extra bonus points! To end the game and submit your points tap on an ARROW button in the top right corner.<br><br><b>GAME MODES:</b><br><br>✓ Quick - 150 seconds time limit<br>✓ Challenge - 2 minutes + extra seconds for 4+ letters words<br>✓ Relax - no time limit, play as long as you want<br><br>Thank you for choosing our game Words Everywhere!",
+            "id": "air.com.littlebigplay.games.premium.wordseverywhere",
+            "image": "https://play-lh.googleusercontent.com/gX2jTQow_BWQqT2tI3IUsuoFjx0VTkNUYj8Lel31gFySpJsjM0dsN3kNwPg6bd9AUA=s180-rw",
+            "rating": 4.2,
+            "raters": 42,
+            "category": "Word",
+            "developer": "LittleBigPlay - Word, Educational & Puzzle Games",
             "expired": false
         },
         {
