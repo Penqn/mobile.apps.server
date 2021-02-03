@@ -18,15 +18,5 @@
 			"force": false,
 			"url": "market://details?id=com.google.gms"
 		}
-	},
-	"digital.card": {
-		"name": "Digi Deck | Digital Visiting Cards Deck",
-		"id": "in.penqn.digital.card",
-		"version": "1.0.7",
-		"update": {
-			"date": "28-11-2020",
-			"force": true,
-			"url": "market://details?id=com.google.gms"
-		}
 	}
 }
