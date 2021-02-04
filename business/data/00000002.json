@@ -1,0 +1,46 @@
+{
+    "name": "PENQN",
+    "logo": "",
+    "phone": "+919946706406",
+    "email": "hello@penqn.in",
+    "whatsapp": "+919946706406",
+    "shortInfo": "Injecting Technology to the Future",
+    "address": "22/89 Chirakkal, Tanur - 676 302",
+    "workingHours": [
+        {
+            "start": "10:00",
+            "end": "05:00"
+        },
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "05:00"
+        },        
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "05:00"
+        },        
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "05:00"
+        },
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "05:00"
+        },
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "05:00"
+        },
+        {
+            "open": false
+        },
+        {
+            "open": false
+        }
+    ]
+}
