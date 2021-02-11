@@ -20,6 +20,14 @@
         {
             "provider": "instagram",
             "link": "https://instagram.com/penqn.in"
+        },
+        {
+            "provider": "twitter",
+            "link": "https://instagram.com/penqn.in"
+        },
+        {
+            "provider": "youtube",
+            "link": "https://instagram.com/penqn.in"
         }
     ],
     "workingHours": [

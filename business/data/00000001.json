@@ -17,10 +17,6 @@
         {
             "provider": "facebook",
             "link": "https://www.penqn.in"
-        },
-        {
-            "provider": "instagram",
-            "link": "https://instagram.com/penqn.in"
         }
     ],
     "workingHours": [
