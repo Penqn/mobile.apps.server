@@ -7,7 +7,10 @@
     "shortInfo": "Injecting Technology to the Future",
     "address": "22/89 Chirakkal, Tanur - 676 302",
     "url": "https://www.penqn.in",
-    "upi": "9946706406@upi",
+    "upi": {
+        "id": "9946706406@upi",
+        "name": "Sagar V"
+    },
     "workingHours": [
         {
             "start": "10:00",

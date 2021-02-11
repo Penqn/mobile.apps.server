@@ -6,7 +6,10 @@
     "shortInfo": "Your partner in Technology",
     "address": "22/89 Chirakkal, Tanur 676 302",
     "url": "https://www.sagarvd.me",
-    "upi": "sagarvd1995@oksbi",
+    "upi": {
+        "id": "sagarvd1995@oksbi",
+        "name": "Sagar V"
+    },
     "workingHours": [
         {
             "start": "10:00",

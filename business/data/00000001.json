@@ -7,7 +7,10 @@
     "shortInfo": "The first Digital Visiting card deck in the world.",
     "address": "",
     "url": "https://www.penqn.in",
-    "upi": "9946706406@upi",
+    "upi": {
+        "id": "9946706406@upi",
+        "name": "Sagar V"
+    },
     "workingHours": [
         {
             "start": "10:00",
