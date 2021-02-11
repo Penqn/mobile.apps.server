@@ -12,10 +12,16 @@
         "id": "sagarvd1995@oksbi",
         "name": "Sagar V"
     },
-    "social": {
-        "facebook": "https://www.facebook.com/penqn.in",
-        "instagram": "https://instagram.com/penqn.in"
-    },
+    "social": [
+        {
+            "provider": "facebook",
+            "link": "https://www.penqn.in"
+        },
+        {
+            "provider": "instagram",
+            "link": "https://instagram.com/penqn.in"
+        }
+    ],
     "workingHours": [
         {
             "start": "10:00",
