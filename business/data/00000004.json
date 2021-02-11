@@ -1,8 +1,10 @@
 {
     "name": "UK Soda Co.",
-    "phone": "+919288065712",
     "shortInfo": "",
-    "address": "Kalarippadi, Tanur 676 302",
+    "contacts": {
+        "phone": "+919288065712",
+        "address": "Kalarippadi, Tanur 676 302"
+    },
     "workingHours": [
         {
             "start": "10:00",

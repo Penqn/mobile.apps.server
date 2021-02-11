@@ -1,12 +1,14 @@
 {
     "name": "PENQN",
     "logo": "",
-    "phone": "+919946706406",
-    "email": "hello@penqn.in",
-    "whatsapp": "+919946706406",
     "shortInfo": "Injecting Technology to the Future",
-    "address": "22/89 Chirakkal, Tanur - 676 302",
-    "url": "https://www.penqn.in",
+    "contacts": {
+        "phone": "+919946706406",
+        "email": "hello@penqn.in",
+        "whatsapp": "+919946706406",
+        "address": "22/89 Chirakkal, Tanur - 676 302",
+        "url": "https://www.penqn.in"
+    },
     "upi": {
         "id": "9946706406@upi",
         "name": "Sagar V"

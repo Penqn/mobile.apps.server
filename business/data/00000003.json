@@ -1,11 +1,13 @@
 {
     "name": "V Sagar",
-    "phone": "+917010749478",
-    "email": "hello@sagarvd.me",
-    "whatsapp": "+919946706406",
     "shortInfo": "Your partner in Technology",
     "address": "22/89 Chirakkal, Tanur 676 302",
-    "url": "https://www.sagarvd.me",
+    "contacts": {
+        "phone": "+917010749478",
+        "email": "hello@sagarvd.me",
+        "whatsapp": "+919946706406",
+        "url": "https://www.sagarvd.me"
+    },
     "upi": {
         "id": "sagarvd1995@oksbi",
         "name": "Sagar V"
