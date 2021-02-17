@@ -5,6 +5,11 @@
         "phone": "+919288065712",
         "address": "Kalarippadi, Tanur 676 302"
     },
+    "location": {
+        "lat": "10.9966",
+        "long": "75.8721",
+        "plus": "XVWC%2BMX Tanur, Kerala"
+    },
     "workingHours": [
         {
             "start": "10:00",
