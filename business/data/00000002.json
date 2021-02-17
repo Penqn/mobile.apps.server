@@ -9,6 +9,10 @@
         "address": "22/89 Chirakkal, Tanur - 676 302",
         "url": "https://www.penqn.in"
     },
+    "location": {
+        "lat": "10.9942",
+        "long": "75.8710"
+    },
     "upi": {
         "id": "9946706406@upi",
         "name": "Sagar V"
