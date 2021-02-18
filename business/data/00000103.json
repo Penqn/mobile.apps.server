@@ -1,0 +1,60 @@
+{
+    "name": "Hakeem K K",
+    "logo": "",
+    "shortInfo": "HR Associate",
+    "contacts": {
+        "phone": "+919567213699",
+        "email": "hakeem@hr.thumbay.com",
+        "whatsapp": "+919567213699",
+        "address": "Thumbay Technologies, 2nd Floor, Hsr layout, Sector 6, Bangalore",
+        "url": "https://www.thumbaygroup.com"
+    },
+    "location": {
+        "lat": "12.9147",
+        "long": "77.6149",
+        "plus": "WJ7J+VX Bengaluru, Karnataka"
+    },
+    "upi": {
+        "id": "",
+        "name": ""
+    },
+    "social": [
+    ],
+    "workingHours": [
+        {
+            "start": "09:00AM",
+            "end": "06:00PM"
+        },
+        {
+            "open": true,
+            "start": "09:00AM",
+            "end": "06:00PM"
+        },        
+        {
+            "open": true,
+            "start": "09:00AM",
+            "end": "06:00PM"
+        },        
+        {
+            "open": true,
+            "start": "09:00AM",
+            "end": "06:00PM"
+        },
+        {
+            "open": true,
+            "start": "09:00AM",
+            "end": "06:00PM"
+        },
+        {
+            "open": true,
+            "start": "09:00AM",
+            "end": "06:00PM"
+        },
+        {
+            "open": false
+        },
+        {
+            "open": false
+        }
+    ]
+}
