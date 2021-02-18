@@ -1,0 +1,66 @@
+{
+    "name": "Shana Sherin",
+    "logo": "",
+    "shortInfo": "Unit Manager, ICICI Prudential Life",
+    "contacts": {
+        "phone": "+918088537183",
+        "email": "shanasherin281@gmail.com",
+        "whatsapp": "+919946706406",
+        "address": "Icici Prudential life Insurance, YMCA Cross Road, Calicut",
+        "url": ""
+    },
+    "location": {
+        "lat": "11.2608",
+        "long": "75.7793",
+        "plus": "7Q5G%2BWQ Kozhikode, Kerala"
+    },
+    "upi": {
+        "id": "",
+        "name": ""
+    },
+    "social": [
+        {
+            "provider": "",
+            "link": ""
+        }
+    ],
+    "workingHours": [
+        {
+            "start": "10:00",
+            "end": "04:00"
+        },
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "04:00"
+        },        
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "04:00"
+        },        
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "04:00"
+        },
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "04:00"
+        },
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "04:00"
+        },
+        {
+            "open": true,
+            "start": "10:00",
+            "end": "12:00"
+        },
+        {
+            "open": false
+        }
+    ]
+}
